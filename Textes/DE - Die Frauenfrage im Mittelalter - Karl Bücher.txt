@@ -1,0 +1,2731 @@
+﻿The Project Gutenberg EBook of Die Frauenfrage im Mittelalter, by Karl Bücher
+
+Dieses eBook kann von jedermann überall in den Vereinigten Staaten und
+und den meisten anderen Teilen der Welt kostenlos und fast ohne Einschränkungen
+wie auch immer.  Sie können es kopieren, verschenken oder weiterverwenden unter den Bedingungen
+der Projekt Gutenberg-Lizenz, die diesem eBook beiliegt, oder online unter
+www.gutenberg.org.  Wenn Sie sich nicht in den Vereinigten Staaten befinden, müssen Sie
+müssen Sie die Gesetze des Landes, in dem Sie sich befinden, überprüfen, bevor Sie
+dieses ebook.
+
+
+
+Titel: Die Frauenfrage im Mittelalter
+
+Verfasser: Karl Bücher
+
+Veröffentlichungsdatum: August 5, 2019 [EBook #60062]
+
+Sprache: Deutsch
+
+Zeichensatzkodierung: UTF-8
+
+
+Produziert von Peter Becker, Reiner Ruf und dem Online
+Distributed Proofreading Team auf http://www.pgdp.net (Diese
+Datei wurde anhand von Bildern erstellt, die großzügigerweise
+vom Internet Archive zur Verfügung gestellt)
+
+
+
+
+
+
+  ####################################################################
+
+                     Anmerkungen zur Transkription
+
+    Der vorliegende Text wurde anhand der 1910 erschienenen Buchausgabe
+    so weit wie möglich originalgetreu wiedergegeben. Typographische
+    Fehler wurden stillschweigend korrigiert. Ungewöhnliche und
+    heute nicht mehr gebräuchliche Schreibweisen bleiben gegenüber
+    dem Original unverändert; fremdsprachliche Begriffe wurden nicht
+    korrigiert.
+
+    Umlaute in Großbuchstaben (Ä, Ö, Ü) werden, abgesehen von der
+    Titelseite, als deren Umschreibungen (Ae, Oe, Ue) wiedergegeben.
+    Die Verwendung des ‚scharfen S‘ (ß) entspricht nicht in allen
+    Fällen den heutigen Rechtschreibgewohnheiten.
+
+    Besondere Schriftschnitte wurden in der vorliegenden Fassung mit
+    den folgenden Sonderzeichen gekennzeichnet:
+
+        kursiv:   _Unterstriche_
+        gesperrt: +Pluszeichen+
+
+  ####################################################################
+
+
+
+
+                            DIE FRAUENFRAGE
+
+                                  IM
+
+                              MITTELALTER
+
+                                  VON
+
+                             KARL BÜCHER.
+
+                      ZWEITE VERBESSERTE AUFLAGE.
+
+                               TÜBINGEN
+
+                VERLAG DER H. LAUPP’SCHEN BUCHHANDLUNG
+                                 1910.
+
+
+
+
+                       Alle Rechte vorbehalten.
+
+                  Druck von H. Laupp jr in Tübingen.
+
+
+
+
+                                 FRAU
+
+                              LINA LUDWIG
+
+                               GEWIDMET.
+
+
+
+
+Das Beste, was Frauen uns geben, können wir niemals wiedergeben, und
+wenn ich dieses Büchlein Dir, der lieben guten Mama, zueigne, so weiss
+ich, dass damit die Dankesschuld nicht abgetragen werden kann, zu der
+ich mich bekennen muss. Aber vielleicht ist es Dir doch eine Freude,
+dadurch an die Zeit erinnert zu werden, wo sich auf dem Frankfurter
+Stadtarchiv mir die Gedanken, die es enthält, zusammenfügten und ich an
+so manchem schönen Sonntag bei Euch in Heppenheim ausspannen durfte.
+
+Ausgesprochen wurden diese Gedanken zuerst in einem Vortrage, den ich
+am 28. März 1882 im Liebigschen Hörsaale zu München vor gebildeten
+Frauen und Männern gehalten habe. Aus dem Kreise der Zuhörer sahen
+damals zwei freundliche Augen zu mir empor, die seitdem meinen
+Lebensweg erhellten und die jetzt erloschen sind. Du wirst es vor
+allen verstehen, dass ich mich lange nicht entschliessen konnte, das
+Büchlein, das damals gedruckt wurde, zu erneuern, als es vergriffen
+war. Wenn ich es jetzt dennoch tue, so bin ich nicht der Versuchung
+erlegen, was ich einst in keckem Jugendmute hingestellt hatte, mit
+altem, bedächtigem Kopfe umzumodeln. Die Schrift scheint doch manchem
+so, wie sie ist, lieb geworden zu sein, und wenn ich heute vielleicht
+auch vieles anders sagen würde, in ihren tatsächlichen Feststellungen
+hat sie vor der Kritik bestehen können. Die Verbesserungen der
+neuen Auflage beschränken sich deshalb auf kleinere Berichtigungen
+und Zusätze und auf eine grössere Aenderung am Schlusse, zu der
+die Ergebnisse der Berufszählung von 1907 Anlass gaben. Ausserdem
+sind in den Anmerkungen einige genauere Belege gegeben, ohne dass
+Vollständigkeit der Literaturangaben erstrebt wurde. Eine gelehrte
+Abhandlung sollte mein Vortrag nicht werden.
+
+Eine neue Zugabe ist das Bildchen auf Umschlag und Einband. Es stellt
+eine der Hilfsarbeiterinnen des Frankfurter Wollenhandwerks, wenn nicht
+alles trügt, in Bekinentracht dar, entworfen von einem Frankfurter
+Schreiber, der das Bedebuch von 1405 mit lustigen Federzeichnungen
+versehen hat. Das Bildchen steht bei der Lindheimer Gasse, die
+im damaligen Weberviertel der Altstadt liegt. Bei der Härte der
+mittelalterlichen Bede ist eine amtlich illustrierte Steuerliste eine
+so seltsame Erscheinung, dass ihr Urheber wenigstens in einer kleinen
+Probe seiner Kunst dem steuergeplagten XX. Jahrhundert bekannt zu
+werden verdiente, stünde diese Probe auch nicht in so enger Beziehung
+zum Inhalt dieses Büchleins, als es tatsächlich der Fall ist.
+Vielleicht kann sie seinen Ernst um ein Weniges mildern und durch ihr
+Wirklichkeitsgepräge den Irrtümern, deren es immer noch genug enthalten
+wird, die freundliche Nachsicht erwirken, deren wir alle bedürfen.
+
+    +Leipzig+, den 25. Oktober 1909.
+
+                                                        +Karl Bücher.+
+
+
+
+
+Inhalt.
+
+
+    Die Frage 1. -- Ihr zwiespältiges Wesen 2. -- Ihre statistische
+    Wurzel 3. -- Das Zahlenverhältnis der Geschlechter im Mittelalter
+    5. -- Ursachen des grossen Frauenüberschusses 7. Verschärfung
+    durch Ehebeschränkungen 9. -- Wirtschaftliche Stellung der Frau im
+    deutschen Altertum 10. -- Berufsbildung und Entlastung der Frauen
+    12. -- Angeblicher Ausschluss von zünftiger Erwerbstätigkeit 13.
+    -- Tatsächliches Verhältnis 15, -- in der Textilindustrie 16, in
+    der Schneiderei 18, -- in anderen zünftigen Gewerben 19, -- in
+    nicht zünftigen Berufen 20. -- Versorgungsanstalten: a) Klöster 24;
+    -- b) Leibrentenkauf 26; -- c) Samenungen 27; -- d) Gotteshäuser
+    32. Statistisches 34. Statuten 35. Tätigkeit der Bekinen 36.
+    Aufnahmebedingungen 38. Lebensweise 38. Religiöse Stellung 40.
+    Entartung 41. -- Soziale Stellung der Frauen im Mittelalter 43.
+    -- Gegensätze 45. -- Fahrende Frauen 48. -- Die gemeinen Frauen
+    in den Städten 55. Frauenhäuser 56. Sittenpolizei 60. Eingreifen
+    der Kirche 61. Reuerinnen 62. Rettungshäuser 63. -- Rückblick 66.
+    Wandlung seit der Reformation 67. -- Die heutige Frauenfrage 71. --
+    Anmerkungen 76.
+
+
+
+
+Die »Frauenfrage« bildet nach allgemeiner Annahme eine Zeitfrage von
+so eigenartig modernem Charakter, dass es von vornherein fraglich
+erscheinen könnte, ob man berechtigt sei, diesen Ausdruck auch auf
+Erscheinungen der Vergangenheit anzuwenden. Wenn wir aber überall
+da von »Fragen« reden, wo wir die vorhandenen Zustände in einem
+auffälligen Widerspruche sehen zu dem, was Vernunft und Gerechtigkeit
+fordern, so wird es wohl kaum noch einem Zweifel unterliegen, dass
+wir auch von Fragen der Vergangenheit sprechen dürfen, wo wir immer
+derartige Widersprüche zwischen dem, was +war+, und dem, was hätte
+sein sollen, entdecken. Es ist dabei ziemlich gleichgültig, ob die
+tatsächlich vorhandenen Widersprüche als »Fragen« in das Bewusstsein
+der Zeitgenossen getreten sind; es genügt vollständig, wenn ein
+derartiger Widerspruch nachgewiesen werden kann, oder wenn sich
+Versuche und Anstalten zu seiner Beseitigung erkennen lassen. Oder
+wollte etwa jemand leugnen, dass die moderne Frauenfrage lange vor der
+Zeit schon existiert hat, wo sie anfing, in populären Vorträgen, auf
+»Frauentagen« oder bei ästhetischen Teegesellschaften verhandelt zu
+werden?
+
+Wenn ich in diesem Sinne von einer Frauenfrage im Mittelalter sprechen
+will, so bin ich weit davon entfernt, mich auf den Standpunkt
+derjenigen zu stellen, welche die gesamte rechtliche, politische und
+soziale Stellung der Frau im Widerspruch finden mit den Forderungen
+der Vernunft und Gerechtigkeit. Von diesem Standpunkte aus gab es
+sicherlich im Mittelalter weit, weit mehr zu »fragen« und zu wünschen
+als heutzutage. Ich denke mich vielmehr auf jenen engeren Teil
+der Frauenfrage zu beschränken, den man vielleicht richtiger als
+»Frauen+erwerbs+frage« bezeichnen würde. Freilich hat auch noch in
+diesem engeren Sinne heute die Frauenfrage eine doppelte Seite. Sie
+stellt sich dar einerseits als Frauenschutzfrage mit Bezug auf die
+zahlreichen weiblichen Arbeiter der Industrie, anderseits als Frage der
+Erweiterung des Erwerbsgebiets der Frauen für diejenigen weiblichen
+Glieder der gebildeten Klasse, welche aus irgend einem Grunde
+ausserhalb der natürlichen Tätigkeitssphäre ihres Geschlechtes in der
+Wirtschaft Verwendung suchen.
+
+Welche von diesen beiden Seiten der Frauenerwerbsfrage man nun
+auch ins Auge fassen mag, immer wird man darauf zurückgeführt, die
++Wurzel+ derselben zu suchen in der Tatsache, dass gegenwärtig ein
+ansehnlicher Teil der Frauen innerhalb der Familie nicht diejenige
+Versorgungsgelegenheit findet, die wir ihm aus allgemeinen Gründen
+wünschen müssen. Diese Tatsache beruht in erster Linie auf einem
+statistischen Missverhältnis, welches obwaltet zwischen der Zahl der
+heiratsfähigen Frauen und Männer, sodann aber auf einer entweder
+notwendigen oder freiwilligen Enthaltung von der Ehe auf Seiten eines
+Teils der heiratsfähigen Männer.
+
+Was zunächst jenes statistische Missverhältnis betrifft, so ist es eine
+bekannte Tatsache, dass fast in allen europäischen Staaten unter den
+Neugeborenen die Zahl der Knaben überwiegt, dass aber durch rasches
+Absterben der männlichen Kinder das Zahlenverhältnis zwischen beiden
+Geschlechtern bis etwa zum 17. oder 18. Jahre sich ausgleicht. Wo nun
+eine Bevölkerung weiterhin nur natürlichen Einflüssen ausgesetzt ist,
+d. h. wo die Verminderung der Geschlechter nur durch Absterben erfolgt,
+da kann sich das Zahlenverhältnis derselben etwa vom 18. bis zum 30.
+Jahre, also dem eigentlichen Heiratsalter, im Gleichgewicht erhalten.
+Es würde bei rechtzeitiger Verheiratung jede Frau einen Mann bekommen
+können. Vom 30. Jahre ab gewinnt überall das weibliche Geschlecht ein
+Uebergewicht und steigert dasselbe von Jahrzehnt zu Jahrzehnt, so dass
+in den höchsten Altersstufen auf 10 Männer durchschnittlich 14-20
+Frauen zu kommen pflegen.
+
+So gestaltet sich das Verhältnis der Geschlechter unter rein
++natürlichen Einflüssen+. Allein diese natürlichen Einflüsse gelangen
+in vielen Staaten nicht zu ungestörter Wirksamkeit. Kriege und
+Auswanderung, sowie die nachteiligen Folgen mancher Berufstätigkeiten
+verringern die Zahl der Männer schon zwischen dem 18. und 30. Jahre
+so stark, dass fast plötzlich um das 20. Jahr das anfängliche
+Uebergewicht des männlichen Geschlechts in ein Uebergewicht des
+weiblichen Geschlechtes umschlägt. Insbesondere ungünstig prägen
+sich die Ergebnisse der angedeuteten nachteiligen Einwirkungen in
+der Geschlechtsgliederung der deutschen Bevölkerung aus. Von den
+Altersstufen zwischen 20 und 25 Jahren kommen im Deutschen Reiche
+nach der Zählung von 1900 auf 1000 Männer schon 1012 Frauen; im
+Alter von über 20 Jahren überhaupt auf 1000 Männer 1064 Frauen. Noch
+ungünstiger gestaltet sich diese Betrachtung, wenn wir berücksichtigen,
+dass normaler Weise das Heiratsalter des Mannes um etwa fünf Jahre
+höher ist, als das der Frau. Stellen wir demgemäß die Männer im Alter
+von 25-30 Jahren den Frauen im Alter von 20-25 Jahren gegenüber, so
+erhalten wir für die deutsche Bevölkerung auf je 1000 Männer 1105
+Frauen.
+
+Es kann demnach ein beträchtlicher Teil der heiratsfähigen Frauen
+unter keinen Umständen heute zur Verehelichung gelangen, selbst den
+Fall vorausgesetzt, dass alle Männer heiraten wollten und könnten.
+Dieser Fall trifft nun aber bekanntlich nicht zu. Ein ansehnlicher
+Teil der Männer (in ganz Deutschland gegen 10%) bleibt unvermählt. Es
+ist klar, dass beide Umstände, der statistische Frauenüberschuss und
+das soziale Uebel der männlichen Ehelosigkeit, in ihrem Zusammenwirken
+einen beträchtlichen Teil der unverheiratet bleibenden Frauen auf eine
+Existenz durch eigene Erwerbsarbeit hinweisen. Zu einem eigentlichen
+Erwerbs-Notstande führen dieselben indes nur in den sogen. höheren
+Klassen der Gesellschaft, für die es an passenden Frauenerwerbsgebieten
+fehlt.
+
+Aus ganz derselben Ursache, wie die moderne Frauenerwerbsfrage,
+entspringt die mittelalterliche Frauenfrage, von der im Folgenden die
+Rede sein soll. Wenn ich im allgemeinen von einer +mittelalterlichen+
+Frage spreche, so soll damit nicht gesagt sein, dass das ganze
+Mittelalter und alle Klassen der Bevölkerung in die Erörterung
+hereingezogen werden sollen. Ich muss mich vielmehr beschränken auf die
+Zeit und die Teile der Bevölkerung, für welche uns allein Quellen über
+diese Dinge fliessen, auf die deutschen Städte von der Mitte des XIII.
+bis zum Ausgange des XV. Jahrhunderts.
+
+Statistische Ermittelungen, welche über drei der bedeutendsten
+mittelalterlichen Städte Deutschlands angestellt werden konnten[1],
+haben übereinstimmend einen so bedeutenden Ueberschuss der erwachsenen
+weiblichen über die gleichalterige männliche Bevölkerung ergeben,
+dass man mit Notwendigkeit auf die Vermutung geführt wird, es müsse
+die Frauenfrage im städtischen Leben der beiden letzten Jahrhunderte
+des Mittelalters weit schärfer und brennender aufgetreten sein als
+heutzutage. Eine zuverlässige Zählung der Nürnberger Bevölkerung,
+welche am Ende des Jahres 1449 vorgenommen wurde, ergab unter der
+bürgerlichen Bevölkerung auf 1000 erwachsene Personen männlichen
+Geschlechts 1168 Personen weiblichen Geschlechts. Aber nicht bloss in
+den bürgerlichen Familien, sondern auch unter der dienenden Klasse
+(den Knechten, Handwerksgesellen und Mägden) überwog das weibliche
+Geschlecht. Rechnen wir diese mit der bürgerlichen Bevölkerung
+zusammen, so kamen gar auf 1000 männliche Personen 1207 weibliche. In
+Basel scheint um 1454 das Verhältnis ähnlich gewesen zu sein. In den
+beiden Kirchspielen St. Alban und St. Leonhard trafen damals auf 1000
+männliche Personen über 14 Jahren 1246 weibliche Personen der gleichen
+Altersstufen. Eine Zählung endlich, welche die grössere Hälfte der
+erwachsenen Bevölkerung von Frankfurt a. M. im Jahre 1385 umfasst,
+ergab 1536 männliche und 1689 weibliche Personen oder auf 1000 Männer
+rund 1100 Frauen. Diese letzte Ziffer ist eine Minimalziffer; es lässt
+sich mit guten Gründen wahrscheinlich machen, dass der Frauenüberschuss
+in Frankfurt a. M. im Jahre 1385 noch weit beträchtlicher gewesen ist.
+
+Diese Zahlen reden jedenfalls eine sehr deutliche Sprache; ihr Gewicht
+wird indess noch verstärkt durch eine Reihe von Beobachtungen, von
+denen ich hier nur +eine+ kurz mitteilen will. Das Frankfurter
+Stadtarchiv besitzt noch heute einen grossen Teil der Listen,
+welche über die Erhebung der Vermögenssteuer (Bede) im XIV. und XV.
+Jahrhundert geführt wurden. Diese Erhebung erfolgte ebenso wie die
+Einschätzung durch den Rundgang einer Kommission von Haus zu Haus.
+Das Vermögen wurde nach eidlicher Versicherung der Steuerpflichtigen
+zur Steuer veranlagt und die Hausbesitzer waren bei schwerer Strafe
+gehalten, alle in ihren Häusern wohnenden Personen mit eigenem Vermögen
+anzugeben. Dieses Verfahren bietet ohne Zweifel die Gewähr grosser
+Genauigkeit mit Bezug auf die Ermittlung der Steuerpflichtigen. Da
+ist es nun überaus auffallend, wie häufig unter den Steuerzahlern
+alleinstehende Frauen auftreten. Nach zahlreichen statistischen
+Ermittlungen[2], welche die Jahre 1354-1510 umfassen, machten in
+diesem Zeitraum die Frauen den +sechsten+ bis den +vierten+ Teil aller
+Steuerpflichtigen aus. Bedenkt man, dass es sich bei diesem Verhältnis
+grösstenteils um alleinstehende, selbständige Frauen handelt, dass
+die zahlreichen Nonnen, Pfründnerinnen und Bekinen meist nicht
+mitgerechnet sind und dass Frauen auch im Mittelalter viel schwerer
+zur Selbständigkeit gelangten als die Männer, so erhält man eine
+Ahnung davon, wie schneidend das Missverhältnis in der Zahl beider
+Geschlechter im bürgerlichen Leben der Städte hervorgetreten sein muss.
+
+Hier wirft sich zunächst die Frage auf: woher kommt dieser bedeutende
+Ueberschuss der erwachsenen weiblichen über die männliche Bevölkerung?
+Ich will versuchen, dieselbe mit ein paar kurzen Andeutungen zu
+beantworten. Drei Ursachen scheinen mir besonders in Betracht zu kommen:
+
+1. die zahlreichen Bedrohungen, welchen das männliche Leben in den
+mittelalterlichen Städten infolge der fortwährenden Fehden, der
+blutigen Bürgerzwiste und der gefahrvollen Handelsreisen ausgesetzt war;
+
+2. die grössere Sterblichkeit der Männer bei den oft sich
+wiederholenden pestartigen Krankheiten. Mindestens weisen auf eine
+derartige Vermutung hin die stärkeren Ziffern für die Frauen,
+welche regelmässig nach Pestjahren in den Frankfurter Steuerlisten
+auftreten[3];
+
+3. die Unmässigkeit der Männer in jeder Art von Genuss.
+
+Ausserdem ist wohl die Vermutung nicht abzuweisen, dass die städtische
+Berufsarbeit in engen, ungesunden Räumen, zwischen hohen, dicht
+zusammengerückten Häusermauern bei der Unvollkommenheit der technischen
+Hilfsmittel viel mehr aufreibende Muskelarbeit von den Männern
+erfordert habe, dass der Daseinskampf bei dem raschen Wechsel von guten
+und schlechten Jahren, von hohen und niederen Lebensmittelpreisen, von
+Ueberfluss und Mangel für sie, wenn auch vielleicht im ganzen nicht
+schwieriger, so doch unregelmässiger und wechselvoller sich gestaltet
+haben müsse als in Zeiten besserer Gesundheitspflege und ausgebildeten
+nationalen und internationalen Verkehrs.
+
+Welcher von diesen Entstehungsursachen nun auch der mittelalterliche
+Frauenüberschuss vorwiegend zuzuschreiben sein mag -- sicher ist, dass
+er vorhanden war und dass er in mancherlei Verhältnissen des sozialen
+Lebens seinen Ausdruck fand. Sicher ist auch, dass die dadurch für
+zahlreiche Frauen gegebene Unmöglichkeit einer Versorgung in der Ehe zu
+Uebelständen führte, die das Mittelalter klar erkannte und auf seine
+eigene Art zu heilen suchte.
+
+Ehe wir zur Betrachtung dieser Verhältnisse übergehen, müssen wir
+kurz die Frage berühren, wie weit Beschränkungen des Rechts zur
+Verehelichung das Uebel noch vermehrten.
+
+Hier tritt zunächst das Cölibat der Geistlichkeit uns entgegen. Ihre
+Zahl war allerwärts in den Städten unverhältnismässig gross. Sie lässt
+sich in Frankfurt a. M. für das XIV. und XV. Jahrhundert bei einer
+Einwohnerzahl von 8000-10000 auf 200-250 Personen berechnen[4]. Für
+Lübeck darf man in derselben Zeit 250-300 Weltgeistliche und gegen 100
+Klosterbrüder annehmen[5]. In Wismar belief sich um 1485 die Zahl der
+Weltgeistlichen auf 150; in Nürnberg wird 1449 der geistliche Stand auf
+446 (einschliesslich der Dienerschaft) angegeben. Wie ungünstig ihre
+Ehelosigkeit die Heiratsziffern des weiblichen Geschlechts in diesen
+kleinen Gemeinwesen beeinflussen musste, liegt auf der Hand.
+
+Sodann wirkte die zünftige Ordnung des Gewerbebetriebes nachteilig
+auf das Heiratsalter eines grossen Teiles der männlichen Bevölkerung
+ein. Die Verehelichung des Handwerkers hing von seiner Zulassung
+zur Meisterschaft ab, und diese wieder von Bedingungen, welche
+die Angehörigen der Zunftmitglieder begünstigten[6]. Der Geselle
+durfte als solcher im allgemeinen nicht heiraten[7]. Infolge der
+Schliessung vieler Zünfte, der Beschränkung der Betriebsstätten und
+Verkaufsbänke bildete sich deshalb im XIV. und XV. Jahrhundert ein
+eigener Gesellenstand, der keine Aussicht auf Selbständigmachung und
+Familiengründung hatte. Indessen zeugen doch die vielfachen Verbote der
+Zunftstatuten, verheiratete Gesellen anzunehmen, sowie viele Beispiele
+der Frankfurter Steuerlisten dafür, dass Gesellenheiraten nicht eben
+selten waren. Auf keinen Fall aber waren sie so leicht und häufig, wie
+heute die Ehen der Fabrikarbeiter.
+
+Wenn wir uns nun anschicken, die Frage zu beantworten: +was wurde im
+Mittelalter aus den zahlreichen Frauen, die ihren »natürlichen Beruf«
+zu erfüllen verhindert waren+? so müssen wir uns vor allen Dingen von
+der Anschauung los machen, welche den meisten von uns aus unseren
+frühesten Schuljahren anklebt. Wir hören da nach den Schilderungen in
+Tacitus’ »Germania« von der hohen Achtung, der fast göttergleichen
+Verehrung, welche dem Weibe bei den alten Germanen gezollt wurde;
+aber wir übersehen nur zu leicht, dass derselbe Tacitus die Stellung
+der Frau in der Wirtschaft so beschreibt, dass wir mit Notwendigkeit
+auf eine grosse Ueberlastung des weiblichen Geschlechts schliessen
+müssen. Der Mann achtet keine Tätigkeit ausser derjenigen mit dem
+Schwerte. Träge liegt er im Frieden auf der Bärenhaut; Schlaf, Trunk
+und Würfelspiel füllen seine Zeit. Die Sorge für Feld, Haus und Herd
+bleibt den Frauen, die mit den Kindern, den Schwachen und Unfreien die
+Wirtschaft führen. Neben der erhaltenden und verwaltenden Tätigkeit des
+Hauses, die heutzutage den Frauen hauptsächlich zufällt, hatten sie
+also auch die gesamte Gütererzeugung zu bewerkstelligen; oder, um einen
+geläufigen Ausdruck zu gebrauchen: die Frau ernährte die ganze Familie.
+Sie war Arbeiterin, Wirtschaftsführerin, Haushälterin und Erzieherin
+der Kinder zugleich. Die Germanen machten also in ihrer primitiven
+Periode keine Ausnahme von der Erwerbsordnung, die wir noch heute bei
+Naturvölkern finden.
+
+Dieser Zustand änderte sich nach den grossen Wanderungen, als in
+währenden Friedenszeiten und bei wachsender Bevölkerung die deutschen
+Männer sich herabliessen, auch den Acker zu bebauen. Immer aber blieb
+noch ein grosser Teil der Landwirtschaft, namentlich die Be- und
+Verarbeitung vegetabilischer Stoffe, den Frauen überlassen. Auch als
+mehr und mehr aus der alten geschlossenen Hauswirtschaft einzelne
+Tätigkeiten als Gewerbe sich absonderten, blieb das Arbeitsgebiet der
+Frau immer noch sehr gross, wie wir deutlich aus der Verteilung der
+Arbeiten in den grundherrlichen Grosswirtschaften erkennen. Da finden
+wir unter den männlichen Leibeigenen freilich schon Müller und Bäcker,
+Schneider und Schuster, Grobschmiede und Waffenschmiede; den Frauen lag
+aber nicht bloss die Arbeit in Küche und Keller, in Garten und Stall
+ob, sondern auch die Besorgung der Gewandung von der Schafschur und der
+Flachsbereitung bis zum Weben, Färben, Zuschneiden, Nähen und Sticken,
+ferner das Bierbrauen, Seifensieden, Lichterziehen und eine Menge
+von anderen Verrichtungen, die später nach und nach von besonderen
+Gewerbetreibenden übernommen wurden[8].
+
+So sehen wir bis in das XIII. Jahrhundert hinein in dem Masse, als die
+gewerbliche Berufsbildung fortschritt, eine immer weiter greifende
+Entlastung der Frau von schweren körperlichen Arbeiten eintreten; ihre
+Tätigkeit beginnt sich auf dasjenige Gebiet zu beschränken, welches wir
+als die Haushaltung zu bezeichnen pflegen. Aber immer war dieses Gebiet
+noch bedeutend umfangreicher als heutzutage. Das Spinnen und Bleichen,
+das Backen und Bierbrauen wurde auch in den Städten noch vielfach von
+den Frauen besorgt; der Schuster und Schneider, der Sattler und der
+Bauhandwerker arbeiteten im Hause auf der »Stör«; eine grosse Anzahl
+von Produkten, die wir heute fertig zum Verbrauche kaufen, bedurfte
+noch der Zurichtung durch die Frauen.
+
+Dies alles weist darauf hin, dass eine grössere Zahl von Frauen in
+den mittelalterlichen Haushaltungen verwendet werden konnte, als dies
+heute möglich wäre. So mögen vielfach elternlose Mädchen und verwitwete
+Frauen in den Familien ihrer näheren oder entfernteren Verwandten
+Unterkunft und Beschäftigung gefunden haben; der Familienzusammenhang
+war ohnehin damals noch viel stärker als gegenwärtig. Diejenigen
+alleinstehenden Frauen dagegen, welche keinen derartigen Rückhalt
+besassen, waren allem Anscheine nach in den Städten sehr übel gebettet.
+Auf dem Lande mochten Frauenhände immer in der Wirtschaft erwünscht
+sein; in den Städten war die Frau (abgesehen von der Eingehung eines
+Dienstbotenverhältnisses) nach der gewöhnlichen Annahme von der
+Erwerbsarbeit in den zünftigen Gewerben fast vollständig ausgeschlossen.
+
+In der Tat wird sich nicht leugnen lassen, dass die gesamte Stellung
+der Gewerbe im Mittelalter ein selbständiges Eingreifen der Frauen in
+dieses Gebiet grundsätzlich auszuschliessen scheint. Das Zunftwesen,
+welchem alle einigermassen entwickelten Gewerbe unterworfen waren, war
+seinem innersten Wesen nach auf die Familie gegründet. Die Zünfte waren
+nicht bloss gewerbliche Vereine, sondern Unterabteilungen der Gemeinde
+mit rechtlichen, politischen, militärischen und administrativen
+Aufgaben. Das Recht zum Gewerbebetrieb schloss die Verpflichtung zum
+Waffendienst und zu anderen Leistungen in sich, zu welchen Frauen nicht
+wohl herangezogen werden konnten. Bei der Teilnahme an den politischen
+Rechten, von der ja die Frauen ausgeschlossen waren, spielten die
+Zünfte wieder eine Rolle, welche die Zulassung weiblicher Mitglieder
+untunlich zu machen schien.
+
+Adrian Beier[9], der Verfasser des ältesten Kompendiums des
+Handwerksrechts, stellt denn auch den Satz auf: das männliche
+Geschlecht sei eine der unerlässlichen Grundbedingungen für die
+Aufnahme in eine Zunft gewesen. Die ganze gesellschaftliche Ordnung,
+meint er, beruhe darauf, dass jedes Geschlecht diejenigen Geschäfte
+übernehme, welche seiner Natur am angemessensten seien, der Mann die
+Erwerbsarbeit, die Frau die Küche, den Spinnrocken, die Nadel, die
+Wäsche; auch das Weben, Lichtergiessen und Seifensieden solle ihr noch
+gestattet sein. Das Mädchen sei zur Ehe bestimmt; man könne nicht
+wissen, wen es einmal heiraten werde; eine gelernte Schusterin sei aber
+dem Schmiede nichts nütze. Ausserdem könne man nicht allein in der
+Lehre lernen; von ungewanderten Junggesellen und gewanderten Jungfern
+werde aber beiderseits wenig gehalten. Der Umgang mit Männern in der
+Werkstätte sei in sittlicher Hinsicht nicht ungefährlich. Endlich
+sei die Zunft eine öffentliche Einrichtung; das Meisterrecht sei mit
+staatlichen Leistungen, als Wachen und Gaffen, verbunden, wozu Weiber
+nicht taugten.
+
+Trotz dieser anscheinend in der Natur der Sache liegenden
+grundsätzlichen Ausschliessung der Frauen wenigstens vom zünftigen
+Gewerbebetrieb sehen wir das ganze Mittelalter hindurch die Frauen
+vielfach im Gewerbe tätig -- ein Beweis, dass eine derartige
+Beschäftigung derselben durch die tatsächlichen Verhältnisse sich als
+notwendig aufdrängte. Ja wir finden sogar Frauenarbeit in einer Reihe
+von Berufsarten, von denen sie gegenwärtig tatsächlich ausgeschlossen
+ist.
+
+Ich will hier die Tatsache nicht weiter betonen, dass die Witwe eines
+Meisters das Geschäft ihres Mannes forttreiben durfte; das ist bekannt
+genug. Ueberdies ist dieses Vorrecht in manchen Gewerben und Städten
+zeitlich begrenzt oder an die Bedingung der Wiederverheiratung mit
+einem Gesellen des gleichen Handwerks geknüpft. Ich will auch kein
+grosses Gewicht darauf legen, dass Frauen und Töchter, oft auch die
+Magd eines Handwerkers demselben im Geschäfte helfen konnten; das
+liess sich bei aller Bevormundung, die dem Mittelalter eigen war, so
+leicht nicht verbieten. Viel wichtiger erscheint mir, dass Frauen und
+Mädchen innerhalb eigener oder fremder Gewerbebetriebe zahlreiche
+Verwendung fanden, bald als abhängige Lohnarbeiterinnen, bald sogar
+als selbständige Meisterinnen. War das betreffende Gewerbe zünftig,
+so konnten hier und da die Frauen in eigenem Namen den Zünften mit
+gleichem Rechte wie die Männer angehören; war es unzünftig, so waren
+sie selbstverständlich keinerlei Beschränkungen unterworfen. Endlich
+finden wir sogar Gewerbe mit zünftiger Ordnung, die ausschliesslich aus
+Frauen bestanden.
+
+Natürlich handelt es sich hier zunächst um Gebiete, in welchen die
+Frauen von Alters her tätig gewesen waren[10]. Dahin gehört das ganze
+Gebiet der +Textilindustrie+. Die Weberei war zwar seit dem XII.
+Jahrhundert ein eigenes Gewerbe in Männerhand; indessen blieben die
+Vorrichtungsarbeiten, das Wollkämmen, Spinnen, Garnziehen, Spulen, fast
+überall noch lange Zeit in den Händen der Frauen. Wir finden deshalb
+an vielen Orten ein zahlreiches weibliches Arbeiterpersonal in der
++Wollweberei+: Kämmerinnen, Spinnerinnen, Spulerinnen, Garnzieherinnen,
+Nopperinnen -- meist abhängige Lohnarbeiterinnen nach Art unserer
+Heim- oder Fabrikarbeiterinnen. In Frankfurt a. M. standen sie unter
+der Aufsicht von zwei Mitgliedern des Rats. Ihre Tätigkeit war an sehr
+eingehende Vorschriften gebunden, und wir haben in der Frankfurter
+Weberordnung von 1377 wohl das älteste Beispiel einer Regulierung der
+Frauenarbeit durch die öffentliche Gewalt[11]. Auch als Weberinnen
+finden wir die Frauen nicht selten tätig, und hier nicht bloss im
+Lohndienst, sondern auch als selbständige Mitglieder der Zunft. So in
+Bremen, in Köln, in Dortmund, in Danzig, in den schlesischen Städten,
+in Speier, Strassburg, Ulm, München. »Wer Webermeister oder Meisterin
+ist«, heisst es in einer Münchener Ratsverordnung aus dem XIV.
+Jahrhundert, »der soll haben, ob er will, einen Lernknecht und eine
+Lerndirne und nicht mehr«.
+
+Was die +Leinenweberei+ betrifft, so ist hier eine vielseitige
+selbständige Beteiligung der Frauen am Handwerk um so weniger zu
+bezweifeln, als in einem grossen Teile von Deutschland auf dem
+Lande die Frauen bis ins XIX. Jahrhundert hinein Leinwand gewebt
+haben. In Hamburg konnten Frauen in der Leinenweberei beim sogen.
+»schmalen Werke« selbständig werden (1375); in Strassburg wurden die
+Schleier- und Leinenweberinnen (1430) zu den Zunftlasten herangezogen;
+in Frankfurt a. M. finden wir ebenfalls selbständig steuernde
+»Lineberssen« (1428), ohne dass es freilich ersichtlich wäre, ob
+dieselben als Meisterinnen oder als Lohnarbeiterinnen betrachtet
+werden müssen. Die Schleierweberei und Schleierwäscherei ist dort
+ganz in den Händen der Frauen; ebenso scheinen sie die +Schnur+- und
++Borten+wirkerei im XIV. und XV. Jahrhundert allein betrieben zu haben.
+In den schlesischen Städten bildete das Garnziehen ein eigenes Gewerbe,
+an dem Männer und Frauen beteiligt waren. In Köln bestand eine eigene
+Zunft von Garnmacherinnen; sie mussten sechs Jahre lernen und keine
+Meisterin durfte mehr als drei Mägde oder Lohnwerkerinnen halten. In
+der zu Anfang des XV. Jahrhunderts aufgekommenen +Barchentweberei+
+haben dagegen weibliche Arbeitskräfte bis jetzt nicht nachgewiesen
+werden können.
+
+Etwas anders lagen die Verhältnisse im +Schneidergewerbe+. Hier
+konnten freilich die Frauen auch das Recht hergebrachten Besitzes für
+sich geltend machen, da sie in älterer Zeit nicht bloss die eigenen
+Kleider, sondern auch diejenigen der Männer gefertigt hatten. Lesen wir
+doch noch im Nibelungenliede, dass Chriemhilde mit ihren Mägden den
+ausziehenden Recken das Gewand bereitet. Aber beim ersten Auftreten
+der Schneiderzünfte arbeiteten die Schneider nicht bloss alle Arten
+von Männerkleidern, sondern auch die Frauengewänder, ja sie hatten
+selbst die ganze Weisszeugnäherei[12]. Indessen bemerken wir doch auch
+hier eine rege Frauentätigkeit. Nicht nur dass im Schneidergewerbe
+Frauen und Töchter der Zunftmeister in weiterem Masse als in anderen
+Handwerken mitarbeiteten; an nicht wenigen Orten konnten auch Frauen
+als selbständige Meisterinnen in die Zunft treten, ja sie durften
+selbst Arbeiterinnen haben und Lehrmädchen annehmen. In Frankfurt und
+Mainz, wie wohl in allen mittelrheinischen Städten, suchte man ihre
+Aufnahme in die Zunft durch Festsetzung geringerer Aufnahmegebühren
+für Frauen zu erleichtern[13]. Erst im XV. Jahrhundert entstanden in
+den rheinischen Städten sehr langwierige Streitigkeiten zwischen den
+Schneidern und den Näherinnen, die schliesslich damit endeten, dass das
+Gebiet der letzteren auf diejenigen Arten des Nadelwerks beschränkt
+wurde, welche noch heute den Frauen eigen sind.
+
+Noch eine Reihe von anderen Handwerken lässt sich nachweisen, die im
+Mittelalter Frauen im Amte hatten. Es würde indes zu weit führen,
+hier auf die Einzelheiten einzugehen. Ich begnüge mich deshalb
+damit, hier kurz die zünftigen Gewerbe zu nennen, bei welchen
+weibliche Arbeitskräfte Verwendung fanden. Es sind: die Kürschner
+(in Frankfurt und in den schlesischen Städten), die Bäcker (in den
+mittelrheinischen Städten), Wappensticker, Gürtler (Köln, Strassburg),
+die Riemenschneider (Bremen), die Paternostermacher (Lübeck), die
+Tuchscherer (Frankfurt), die Lohgerber (Nürnberg), die Goldspinner und
+Goldschläger (in Köln). In den Statuten der letzteren hiess es: »Kein
+Goldschläger, dessen Frau Goldspinnerin ist, darf mehr als drei Töchter
+zum Goldspinnen haben; die Goldspinnerin dagegen, deren Mann nicht
+Goldschläger ist, darf vier Töchter haben und nicht mehr, dass sie ihr
+Gold spinnen.« An der Spitze beider Gewerbe stand je ein Meister und
+eine Meisterin, welche das Werk des Amtes zu besehen und zu prüfen
+hatten. Natürlich konnte es sich hier überall nur um Gewerbe handeln,
+welche der Natur ihres Betriebes nach für das zarte Geschlecht geeignet
+waren; denn es war stehender Grundsatz des alten Handwerksrechtes, dass
+niemand in der Zunft sein solle, der das Gewerbe nicht mit eigener Hand
+treiben könne.
+
+Im ganzen können wir sonach behaupten, dass im Mittelalter die
+Frauen von keinem Gewerbe ausgeschlossen waren, für das ihre Kräfte
+ausreichten. Sie waren berechtigt, Handwerke ordnungsmässig zu lernen,
+sie als Gehilfinnen, ja selbst als Meisterinnen zu treiben[14].
+Indessen bemerken wir schon frühe die Tendenz, die Frauenarbeit mehr
+und mehr zurückzudrängen. Dieselbe wendet sich zunächst gegen die
+Meisterswitwen, deren Recht auf eine gewisse Zeit (Jahr und Tag)
+beschränkt oder an bestimmte Bedingungen geknüpft wird. Sodann gegen
+das Mitarbeiten der Mägde und der weiblichen Familienglieder, endlich
+auch gegen die selbständige Tätigkeit der Frauen in den Zünften. Die
+Gesellenverbände fangen an, sich zu weigern, neben den weiblichen
+Arbeitern zu dienen; die Meister klagen über Beeinträchtigung ihres
+Nahrungsstandes. Im XVI. Jahrhundert leistet noch die öffentliche
+Gewalt diesen engherzigen Bestrebungen Widerstand, im XVII. Jahrhundert
+erlahmt sie darin völlig, und so kommt es, dass nur in vereinzelten
+Fällen bis ins XVIII. Jahrhundert die Frauenarbeit im Handwerk sich
+erhalten hat[15].
+
+Was die nichtzünftigen Gewerbe betrifft, so unterlag in diesen
+die Frauenarbeit wohl nie irgend welchen Beschränkungen. Nur beim
+stehenden Kleinhandel, der jetzt so vielen Frauen Selbständigkeit und
+Unterhalt gewährt, scheint die Marktpolizei vielfach zu Ungunsten
+der Frauen eingegriffen zu haben, während sie beim Hausierhandel
+anscheinend stärker vertreten waren. So wird bei den Gewandschneidern
+und Fischhocken in Frankfurt der Verkauf durch die Frauen verboten,
+mit Ausnahme des Falles, wo der Mann abwesend ist; in München sollte
+keines Fleischhackers oder Metzgers Weib in der Bank stehen und
+Fleisch verkaufen[16]; in Passau durfte die Frau eines Salzhändlers
+nur wenn der Mann krank war dessen Geschäft versehen. Die Hocken und
+Viktualienhändler sind fast allerwärts Männer; nur in Ulm bilden die
+Käuflerinnen ein eigenes weibliches Gewerbe[17].
+
+Es wird vielleicht zur Veranschaulichung des Gesagten beitragen, wenn
+hier noch kurz die Berufsarten namhaft gemacht werden, bei welchen
+ich in Frankfurter Urkunden aus der Zeit zwischen 1320 und 1500
+Frauen beschäftigt gefunden habe. Sie lassen sich in vier Gruppen
+zerlegen. In der ersten, welche die Berufe umfasst, für die nur
+weibliche Namen vorkommen, ergaben sich 65 Beschäftigungsarten. Die
+zweite enthält die Berufe, in welchen die Frauen überwiegen; ihrer
+sind freilich nur 17. Aber ihnen stehen 38 Berufe gegenüber, in denen
+Männer und Frauen etwa gleich stark sich vertreten fanden und 81,
+in denen der Umfang ihrer Tätigkeit hinter derjenigen der Männer
+zurückblieb[18]. Das ergibt rund 200 Berufsarten mit Frauenarbeit.
+Unter ihnen treten allerdings die schon erwähnten Hilfsgewerbe der
+Textilindustrie am stärksten hervor. Die Verfertigung von Schnüren und
+Bändeln, Hüllen und Schleiern, Knöpfen und Quasten ist ganz in ihren
+Händen. Wie an der Schneiderei beteiligen sie sich an der Kürschnerei,
+Handschuh- und Hutmacherei, verfertigen Beutel und Taschen, lederne
+Brustflecke und Sporleder. Selbst bis in die kleine Holz- und
+Metallindustrie reicht ihre Tätigkeit: Nadeln und Schnallen, Ringe
+und Golddraht, Besen und Bürsten, Matten und Körbe, Rosenkränze und
+Holzschüsseln gehen aus ihren Händen hervor. Die Feinbäckerei scheint
+vorzugsweise ihnen obzuliegen; fast ausschliesslich beherrschen sie
+die Bierbrauerei und die Herstellung von Kerzen und Seife. In dem
+außerordentlich spezialisierten Kleinhandel überwiegen sie: Obst,
+Butter, Hühner, Eier, Häringe, Milch, Käse, Mehl, Salz, Oel, Senf,
+Essig, Federn, Garn, Sämereien werden fast nur von ihnen vertrieben.
+Das Hockenwerk und das Trödelgeschäft, ja selbst der sehr entwickelte
+Handel mit Hafer und Heu sind vielfach in den Händen von Frauen.
+Sie treiben sich unter den Abenteurern und Gauklern hausierend
+umher. In den Badstuben Frankfurts bedienten 30 bis 40 Bademägde;
+ja man konnte sich zuweilen selbst von zarten Händen rasieren und
+immer in den Weinschenken sich von weiblichen Musikanten, wie
+Lauten- und Zimbelschlägerinnen, Pfeiferinnen, Fiedlerinnen und
+Schellenträgerinnen, etwas vorspielen lassen. Abschreiberinnen und
+Briefdruckerinnen kommen wenigstens vereinzelt vor; schon 1346 wird
+eine Malerin und von 1484 ab häufig Juttchen die Puppenmalerin
+genannt. Ja selbst im städtischen Dienst werden Frauen verwendet,
+nicht bloss als Hebammen und Krankenpflegerinnen, sondern selbst als
+Schlaghüterinnen, Pförtnerinnen, Turmwächterinnen[19], Zöllnerinnen
+und beim Hüten des Viehs. Unter den 11 Personen, welchen 1368 der
+Rat das Geldwechselgeschäft übertragen hatte, werden nicht weniger
+als 6 Frauen genannt; wir begegnen einer Frau als Pächterin des
+Leinwandzolles und einer anderen als Aufseherin und Einnehmerin in der
+Stadtwage[20]. Im XIV. Jahrhundert findet sich häufig eine weltliche
+Schulmeisterin, _Lyse, die die Kinde leret_, auch kurz _lerern_ oder
+_kindelern_ -- vielleicht eine mittelalterliche Kindergärtnerin. Aber
+1361 wird zugleich mit ihr Katherine schulmeistern genannt -- ein
+Beweis, dass keine vereinzelte Erscheinung vorliegt. In Lübeck war es
+von alters üblich, dass ehrbare Frauen kleine Mädchen schreiben und
+lesen lehren durften. Ferner hat es während des ganzen XIV. und XV.
+Jahrhunderts in den meisten Städten weibliche Aerzte gegeben. Zwischen
+1389 und 1497 konnten in Frankfurt nicht weniger als 15 Aerztinnen
+mit Namen nachgewiesen werden, unter diesen 4 Judenärztinnen und 3
+Augenärztinnen[21]. Verschiedenen von ihnen werden sogar wegen Heilung
+städtischer Bediensteten Ehrungen und Steuererleichterungen vom Rate
+bewilligt. Endlich war es nichts seltenes, dass in unsicheren Zeiten,
+wenn raubende und plündernde Haufen in der Umgegend sich sammelten,
+Frauen im Kundschafterdienst verwendet wurden[22]. Einer der höchsten
+Träume unserer modernen Emanzipationsfreunde war somit im Mittelalter
+schon einmal volle Wirklichkeit.
+
+       *       *       *       *       *
+
+Wie ausgedehnt man sich auch das Gebiet selbständiger Erwerbstätigkeit
+vorstellen mag, welches den Frauen im Mittelalter zugänglich war --
+auf keinen Fall reichte es hin, sämtliche des männlichen Schutzes
+entbehrenden Frauen zu beschäftigen. Für die jüngeren bot hier
+wohl der Gesindedienst, der im Mittelalter verhältnismässig mehr
+Kräfte erforderte als heute, Arbeit und Brot; auch gab es ausser
+der Weberei und der Bekleidungsindustrie noch andere Handwerke, die
+weibliche Arbeitskräfte beschäftigten. So in Lübeck die Nadler,
+Maler, Bernsteindreher und Bader. Aber die Weiberlöhne[23] waren auch
+im Mittelalter überaus niedrig, wohl wegen des grossen Zudrangs von
+Arbeiterinnen zu den erwähnten industriellen Beschäftigungen. Viele
+waren deshalb gezwungen, in anderer Weise ein Unterkommen zu suchen.
+
+Hier bot sich als nächste Zuflucht das +Kloster+, und es ist
+in der Tat auffallend, wie sehr in der zweiten Hälfte des XIII.
+und im XIV. Jahrhundert allerwärts in den deutschen Städten die
+Frauenklöster zunahmen. In diese Zeit fällt der kräftige Impuls, der
+von den Bettelorden ausging, in deren Klientel sich fast alle neu
+gegründeten Nonnenklöster begaben. Wenn die älteren Frauenklöster
+und Stifter Versorgungsanstalten für die Töchter des ärmeren Adels
+bildeten, so boten diese neueren eine Unterkunft für die überschüssige
+Frauenwelt des höheren Bürgerstandes und der Geschlechter, von denen
+manche Novizen auch an die Klöster einer näheren oder entfernteren
+Umgebung lieferten. Wen getäuschte Hoffnungen, überstandene Angst und
+Kümmernis, der Verlust von Gatten, Eltern, Geschwistern, die Furcht
+vor einer rohen, gewalttätigen Welt oder tiefinnerstes religiöses
+Bedürfnis trieben, den Schleier zu nehmen, der fand, wenn das nötige
+Einkaufsgeld vorhanden war, hier ein beschauliches Dasein, Gelegenheit
+zu geistiger Ausbildung und zu stiller Tätigkeit im Dienste der
+Erziehung und in weiblichen Handarbeiten, äussersten Falles wenigstens
+Unterhaltung und mancherlei Kurzweil. Sehr anschaulich schildert ein
+mittelalterliches Gedicht[24] die Tätigkeit in den Nonnenklöstern:
+
+    »Da waren vrouwen inne, die dienten Got mit sinne:
+    Die alten und die jungen lasen unde sungen
+    Ze ieslicher im tage zit, si dienten Gote ze wider strit,
+    So si aller beste kunden, und muosen under stunden,
+    So si niht solden +singen+, +naen+ oder +borten dringen+
+    Oder +würken+ an der +ram+; ieglichiu wold’ des haben scham,
+    Die da muezik waere beliben; sie +entwurfen+ oder +schriben+.
+    Es +lert+ die +schuolemeisterin+
+    Die jungen +singen+ und +lesen+, wie sie mit zühten solden wesen,
+    Beide +sprechen+ unde +gen+, ze kore +nigen+ unde +sten+.«
+
+Also Singen, Lesen, Schreiben, Sprachlehre, Anstandsunterricht -- das
+waren die Elemente der weiblichen Klostererziehung; der Gottesdienst,
+das Nähen, Weben, Bortenwirken füllte die übrige Zeit der Nonnen
+aus. Hier und da beschäftigten sie sich auch mit dem Abschreiben
+von Büchern[25]. Namentlich aber waren die Stickschulen[25] der
+Klosterfrauen berühmt, und die kunstfertigen Gebilde ihrer Hände
+auf Messgewändern, auf Decken und Wandbehängen erregen noch heute
+unsere Bewunderung. Für den Absatz ihrer Gewerbeprodukte hatten die
+Klöster hin und wieder in den Städten eigene Verkaufsstellen. Sie
+gerieten aber dabei mit dem freien Gewerbebetrieb der städtischen
+Handwerksmeister und Kaufleute in Konkurrenzstreitigkeiten, die meist
+damit endeten, dass den Klöstern die einzelnen Sorten von Webwaren
+genau vorgeschrieben wurden, die sie in den Handel bringen durften.
+
+Es leuchtet von selbst ein, dass immer nur ein kleiner Teil des
+vorhandenen Frauenüberschusses in den Klöstern unterkommen konnte. Für
+die vielen, welche aus inneren oder äusseren Gründen gehindert waren,
+die Klostergelübde auf sich zu nehmen, musste in anderer Weise gesorgt
+werden, und es gereicht unseren Vorfahren zu nicht geringer Ehre, dass
+sie für diesen Zweck in Anbetracht der Zeitverhältnisse vorzügliche
+Mittel zu finden und durchzuführen wussten. Diese Mittel waren
+verschieden, je nachdem die vom Familienverband ausgeschlossenen Frauen
+begütert oder arm waren.
+
+Besassen die alleinstehenden Jungfrauen und Witwen +Vermögen+, so
+kauften sie mit demselben im XIV. und XV. Jahrhundert wohl eine
++Leibrente+, von der sie bis ans Ende ihrer Tage leben konnten,
+ähnlich wie man früher oft einem Kloster sein Gut übertrug, um sich
+einen sorgenfreien Lebensabend zu erkaufen. Manche Städte, die häufig
+in Geldverlegenheit waren, besserten damit ihre Finanzen auf, dass
+sie an Auswärtige unter gleichzeitiger Verleihung des Bürgerrechts
+Leibrenten verkauften. Sie erfüllten damit die Aufgabe einer modernen
+Lebensversicherungsgesellschaft, und nicht wenige Frauen vom Lande
+haben sich auf diesem Wege zugleich den städtischen Schutz und einen
+sorgenfreien Lebensabend gesichert[26].
+
+Auch ergab es sich leicht, dass vermögende Frauen, insbesondere solche,
+die miteinander verwandt waren, +sich zu drei oder vier zusammentaten+,
+um eine +gemeinsame Haushaltung+ zu führen. Solcher kleinen, freiwillig
+zusammenlebenden Frauengruppen begegnen uns viele in den Frankfurter
+Bedebüchern. Jede der Beteiligten behielt ihr abgesondertes Vermögen
+und versteuerte dasselbe. Zur Wirtschaft mag dann jede ihren Beitrag
+geleistet haben.
+
+Zu einer festen Organisation führten solche freiwillige Verbindungen in
++Strassburg+. Hier bildeten sich eigene +Vereine+, sogen. Samenungen
+(Sammlungen) vermögender Frauen und Jungfrauen zu dem Zwecke eines
+gemeinsamen Lebens in stiller Zurückgezogenheit[27]. Solcher
+Samenungen gab es +drei+; alle waren in der zweiten Hälfte des XIII.
+Jahrhunderts gegründet worden. Die ihnen angehörigen Frauen hiessen
+Pfründenschwestern, Pfründnerinnen, auch wohl Mantelfräulein, weil sie
+eine eigene Tracht von geistlichem Zuschnitte trugen.
+
+Wie alle Vereinigungen des Mittelalters, mochten sie sonst zu
+gewerblichen, geselligen oder Unterstützungszwecken errichtet sein,
+standen auch die Samenungen von Anfang an in näherer Beziehung zur
+Kirche. Ein Dominikaner, Friedrich von Erstein, hatte ihre ersten
+Satzungen (von 1267) verfasst; sein Orden nahm auch fernerhin die
+Schwestern in seine sorgsame Obhut. Nach jenen Satzungen lebten
+im ersten Jahrhundert ihres Bestehens die Samenungen in voller
+Gütergemeinschaft. Zur Aufnahme war erforderlich, dass die Eintretende
+so viel eigenes Vermögen besass, um davon leben zu können. Schied sie
+aus, ehe sie das 14. Lebensjahr zurückgelegt hatte, so musste sie für
+jeden im Hause zugebrachten Monat 40 Pfennige Kostgeld bezahlen und
+zurückerstatten, was sie von den Schwestern an Kleidungsstücken u. dgl.
+erhalten hatte. Trat sie erst nach dem vierzehnten Jahre aus (etwa
+zum Zwecke der Verheiratung), so durfte sie nur Kleider und Bettwerk
+mitnehmen, musste aber ihr eingebrachtes Vermögen zurücklassen; wollte
+sie in ein Kloster gehen, so gab man ihr fünf Pfund von ihrem Vermögen
+wieder. Ungebührliche Reden, Streitsucht, das Anknüpfen von Beziehungen
+zu Männern zogen die Ausschliessung nach sich. Man darf daraufhin nicht
+etwa meinen, dass die Mantelfräulein das klösterliche Gelübde der
+Ehelosigkeit abgelegt hätten; es ist ja klar genug, dass auch heute
+noch die Mitgliedschaft einer derartigen Vereinigung mit der Anknüpfung
+eines Verhältnisses zu Männern oder der Brautschaft einer Beteiligten
+aufhören müsste. Bei einer etwaigen Auflösung der Samenung sollte das
+Vereinsvermögen unter die Schwestern gleichmässig verteilt werden.
+
+Bis zur Mitte des XIV. Jahrhunderts herrschte in diesen Frauenvereinen
+unter der Seelsorge der Dominikaner ein zwar stilles, beschauliches,
+aber auch geistig angeregtes Leben. Alles, was die Zeit auf religiösem
+Gebiete bewegte, fand hier eifrige Anteilnahme. Namentlich waren
+die strengen Mystiker Meister Eckart und Johann Tauler in ihnen
+gern gesehene Gäste. Die Schwestern lauschten ihren gefühlswarmen,
+tiefsinnigen Predigten und schrieben ihre Traktate ab. Kurz nachher
+(1355) schrieb Rulman Merswin von ihnen: »Sie waren also gar
+schweigsame, einfältige, gutherzige Frauen und hatten also gar grossen
+einfältigen inwendigen Ernst, dass ihnen Gott gar heimlich war mit
+seiner Gnade.«[28]
+
+Später änderte sich das. Der Geist der Eintracht und Schwesterliebe
+schwand mehr und mehr aus den Samenungen. Es wurden sehr eingehende
+Satzungen notwendig, welche die Vermögensgemeinschaft teilweise
+aufhoben und die Hausordnung bis in die kleinsten Einzelheiten
+vorschrieben. Die Schwestern behielten ihr Sondereigentum und konnten
+jederzeit aus der Vereinigung treten, wenn sich ihnen Gelegenheit
+zur Verehelichung bot. Während das Vermögen der Einzelnen vielleicht
+nicht zur Fortführung eines selbständigen standesgemässen Haushalts
+ausgereicht hätte, zeigte die gemeinsame Wirtschaft einen gewissen
+Luxus. Es fehlte nicht an einer ganz annehmbaren Speisekarte, an
+Silbergeschirr und Kleinodien; Dienerinnen wurden gehalten, Gäste
+zu Tische geladen; man wohnte den Turnieren und den Tanzfesten auf
+den Trinkstuben der adeligen Gesellschaften bei; ja man konnte sich
+den Besuch der damaligen Luxusbäder im Schwarzwald und in der Schweiz
+gestatten. Im Jahre 1414 wurde angeordnet, dass jede neu aufzunehmende
+Pfründnerin dem Hause 60 Pfund geben und dass die, welche in die Welt
+zurückkehrte, die Hälfte ihres Hausrats zurücklassen sollte.
+
+Durch solche Einrichtungen, sowie durch die ihnen zufallenden
+Schenkungen und Vermächtnisse bereicherten sich die Samenungen immer
+mehr; aber sie verfielen dadurch auch um so rascher. Ihr inwendiger
+Ernst sei erloschen, berichtet Rulman Merswin; statt zu beten und
+fromme Büchlein zu lesen, unterhielten sie sich mit allerlei weltlichem
+Klatsch; Missgunst, Eifersucht, gegenseitiges Misstrauen beherrschten
+das häusliche Leben. Die alte Tracht, ein wollenes Gewand und langer
+Schleier, die sie noch immer trugen, bewahrte sie nicht vor Weltlust
+und Hoffart; selbst vor dem Weihkessel, meint Geiler von Keisersberg,
+könnten sie nicht vorübergehen, ohne sich darin zu beschauen. In ihren
+Häusern lebten sie herrlich und in Freuden; in der Stadt wurden sie zu
+Gaste geladen; sie fehlten bei keiner Belustigung[29]. Kein Wunder,
+dass sie die Reformation, wie manche ähnliche Vereine, rasch vom
+Erdboden wegfegte.
+
+Viel härter war das Los der +armen+ Frauen, die ihres Ernährers
+beraubt waren und weder in der Erwerbswirtschaft noch in den Klöstern
+eine Stelle finden konnten. Zur Verheiratung bot sich ihnen meist
+nur dann sichere Gelegenheit, wenn sie dem Manne als Tochter oder
+Witwe eines Meisters das Zunftrecht in die Ehe brachten. Freilich gab
+es zahlreiche Stiftungen und Vermächtnisse, die auch ihnen zu Gute
+kamen -- Verteilungen von Geld und Brot, von Suppe und Fleisch, von
+Holz und Kleidern. Das Betteln war im Mittelalter keine Schande, das
+Almosengeben wurde als religiöse Pflicht angesehen; man brauchte sich
+um so weniger zu scheuen, Spenden und Geschenke zu heischen, als von
+den Almosenempfängern eine Gegenleistung, bestehend in Kirchenbesuch
+und Gebet für das Seelenheil des Spenders, gefordert wurde. Alte und
+gebrechliche Leute fanden wohl auch als Pfründnerinnen in Spitälern
+eine Aufnahme.
+
+Aber diese Mittel boten keine dauernde und ausgiebige Hilfe; sie
+versagten am meisten, wenn sie am nötigsten gewesen wären, in Zeiten
+allgemeiner Teuerung und Bedrängnis.
+
+Da ist es denn im höchsten Grade bemerkenswert und als Beweis für
+die Tatsache eines weitverbreiteten Frauennotstandes geradezu
+ausschlaggebend, dass seit der Mitte des XIII. Jahrhunderts überall
+in Deutschland sehr zahlreiche +Anstalten+ gegründet wurden, welche
+ausschliesslich zur Versorgung ärmerer alleinstehender Frauen
+bestimmt waren. Es sind dies die sogen. +Gotteshäuser+ oder
++Bekinenanstalten+[30].
+
+Man pflegt die Institution der Bekinen und Bekarden gewöhnlich
+nur von ihrer religiösen Seite zu betrachten und sie da mit den
+Tertiariern zusammenzustellen, jenem ausgedehnten Anhang der
+Bettelorden aus dem Laienstande. Es ist ja bekannt, dass dieser von
+den Dominikanern und Franziskanern gestiftete »dritte Orden der Reue«
+aus Weltleuten beiderlei Geschlechts bestand, welche, ohne der Ehe
+und ihrem bürgerlichen Berufe zu entsagen, sich der Aufsicht der
+Orden unterworfen hatten, an ihren Uebungen und Gebeten teilnahmen,
+der Weltlust entsagten, ernste, einfache Kleidung trugen und sich
+verpflichteten, Barmherzigkeit zu üben, die Gebote Gottes und die
+Vorschriften der Kirche zu halten. In ähnlichen Beziehungen, wie diese
+Minoriten, standen allerdings auch die Bekinen und Bekarden zu den
+Bettelorden. Sie trugen ein dem geistlichen ähnliches schlichtes Gewand
+und nahmen gewisse religiöse Verpflichtungen auf sich. Allein sie
+hatten darum nicht mehr Verwandtschaft mit dem Nonnen- und Mönchswesen
+als etwa die Brüderschaften der Handwerksgesellen, der Aussätzigen, der
+Blinden und Lahmen. Ja wir können sogar beobachten, wie die städtischen
+Räte mit allen ihnen zu Gebote stehenden Mitteln dahin strebten, den
+weltlichen Charakter der Bekinen (die Bekarden waren wenig zahlreich
+und stehen uns hier fern) aufrecht zu erhalten.
+
+Das Aufkommen der Bekinen knüpft sich -- wenigstens in den deutschen
+Städten -- überall an die Stiftung der Gotteshäuser. Unter letzteren
+versteht man Häuser, welche von reicheren Laien, Männern und Frauen,
+dem Zwecke gewidmet wurden, eine bestimmte Anzahl armer, verlassener
+Frauen und Mädchen aufzunehmen. Sie hiessen auch wohl +Einungen+
+(Frankfurt a. M.) oder +Sammlungen+ (Ulm), +Seelhäuser+ (Ulm, München),
++Regelhäuser+ (München), +Maidehäuser+ (Mainz), +Konvente+ (Wesel),
+unter Umständen auch +Klausen+ -- das letztere namentlich auf Dörfern
+und in einsamen Gegenden. Oft begnügten sich die Stifter nicht mit der
+Gewährung der Wohnung; sie sorgten auch durch Verschreibung von Renten
+und sonstigen Gefällen für die Unterhaltung der Gebäude, für Holz und
+Licht, manchmal auch für einen Teil der Nahrung. Die Bewohnerinnen
+solcher Häuser nannte man allgemein +Schwestern+, in Strassburg auch
++gewillige oder arme Schwestern+, in Frankfurt a. M. +geistliche
+Schwestern+, +Kinder+ oder +arme Kinder+, in München +Seelnonnen+, in
+Konstanz +Mäntlerinnen+; später wurde der Name Bekinen, Beguinen, hier
+und da auch Begutten, durchweg gebräuchlich.
+
+Die +Zahl+ der Frauen, welche in ein solches Gotteshaus Aufnahme
+finden konnten, war meist nicht sehr gross und wurde insgemein schon
+von dem Stifter festgesetzt. Sie schwankte in Worms zwischen 2 und 6,
+in Frankfurt zwischen 2 und 15, in Strassburg war die am häufigsten
+vorkommende Anzahl 20; aber es gab auch Häuser mit 3, 4, 6, 8, 10, 12,
+ja selbst mit 22 und 26 Schwestern. Sogenannte Bekinen+höfe+, d. h. mit
+Mauern umgebene Hofstätten, welche mehrere Wohn- und Wirtschaftsgebäude
+für eine grössere Zahl von Schwestern enthielten, finden wir
+vorzugsweise in den niederrheinischen Städten und in Belgien. In den
++Klausen+ lebte meist nur je eine Bekine oder Klausnerin.
+
+Die meisten dieser Gotteshäuser wurden zwischen 1250 und 1350
+gestiftet. Es ist bezeichnend für ihren weltlichen Charakter, dass sie
+durchweg nach dem Namen ihres Gründers benannt werden. Ihre Zahl war in
+den einzelnen Städten und deren Umgebung sehr gross. In Frankfurt sind
+ihrer 57 (etwa 3 Prozent sämtlicher Wohnhäuser der Stadt) dem Namen
+nach bekannt, in Strassburg 60, in Basel über 30, in Speier 6; für
+München sind ihrer nur 7 nachgewiesen.
+
+Was die +Gesamtzahl der Bekinen+ betrifft, so lassen sich über diese
+für die einzelnen Städte keine sicheren Nachweise erbringen. Nach einer
+auf ziemlich zuverlässigen Anhaltspunkten beruhenden Schätzung waren
+zu Frankfurt a. M. am Ende des XIV. Jahrhunderts über 200 Bekinen
+vorhanden. Ueber 6 Prozent der erwachsenen weiblichen Bevölkerung
+(die Stadt hatte damals etwa 9000 Einwohner) befanden sich darnach
+in den Gotteshäusern. Hartwig hat berechnet, dass in den Lübecker
+Anstalten für alleinstehende Frauen, die freilich nicht ausschliesslich
+Gotteshäuser (Konvente) waren, 600 Personen versorgt werden konnten.
+Von den bis 1330 gestifteten Strassburger Gotteshäusern konnten 12
+allein 195 Schwestern aufnehmen; alle zusammen boten für mehr als
+600 Personen Raum. Noch weit zahlreicher scheinen die Bekinen am
+Niederrhein gewesen zu sein. Köln soll ihrer 2000 gehabt haben, Nivelle
+und Cantibri bei Cambrai 1300, und ein Bekinenhof bei Mecheln »bis in
+die 1400 oder mehr«[31]. Indessen wird man diesen letzteren Ziffern mit
+einigem Misstrauen begegnen müssen.
+
+Wie schon der Name Gotteshäuser andeutet, waren dieselben Stiftungen
+christlicher Barmherzigkeit, hervorgegangen aus dem religiösen
+Bedürfnisse derjenigen, welche ihr irdisch Hab und Gut -- gewiss mit
+Recht -- dem Dienste Gottes zu weihen meinten, indem sie für Unterkunft
+der von aller Welt verlassenen, jeder Gefahr ausgesetzten Frauen Sorge
+trugen. Vorzugsweise waren es verwaiste oder ledig gebliebene arme
+Mädchen, kinderlose Witwen, Töchter kinderreicher Handwerker, alte
+treue Dienstboten, welche hier Aufnahme fanden. Im XIII. Jahrhundert
+traten auch nicht selten alleinstehende Frauen aus dem wohlhabenden
+Bürgerstande, ja selbst solche aus den städtischen Geschlechtern und
+dem Adel bei den armen Schwestern ein, denen sie dann ihr Vermögen
+zubrachten.
+
+Die +Statuten+ der Gotteshäuser, welche gewöhnlich schon in dem
+Stiftungsbriefe gegeben wurden, waren in der ersten Zeit überaus
+einfach. Erst später, als sich Uebelstände herausstellten, wurden sehr
+eingehende Satzungen und Hausordnungen für die Schwestern aufgestellt.
+Diese sind natürlich je den besonderen Verhältnissen angepasst. Ich
+darf mich hier damit begnügen, die wichtigsten gemeinsamen Züge aus
+ihnen auszuheben.
+
+Die +Grundlage der Existenz+ der in einem Gotteshause vereinigten
+Schwestern bildete die Rente des Stiftungsvermögens. Wenn diese
+zum Leben nicht ausreichte, mussten sich die Frauen durch +Arbeit+
+ernähren, durch Stricken und Nähen, durch Spinnen und Weben. Die
+niederrheinischen Bekinenhöfe waren regelmässig mit Bleichplätzen
+verbunden. Die Konkurrenz mit dem freien Gewerbebetrieb, welche sie
+hier zu bestehen hatten, wurde ihnen nicht selten durch Privilegien
+der Stadtobrigkeiten und der Fürsten erleichtert. So erhielten 1293
+die Bekinen zu Würzburg das Recht, ihre selbstverfertigten Tücher
+ellenweise zu verkaufen[32]. Im Jahre 1310 gestatteten die Herzöge
+Boleslaw, Heinrich und Wendislaw den Bekinen zu Breslau, durch die
+Tuchmacher der Stadt weisses und graues Tuch weben zu lassen und in
+ganzen Stücken zu verkaufen[33]. In Konstanz hatten sich etliche
+Wollenweber geweigert, den »armen Schwestern in der Mäntlerinnen Haus«
+das Wollengarn zu weben, das sie spannen. Auf die Klage der Schwestern
+bestimmten die Zunftmeister, dass ihnen die Weber was sie spannen, um
+es an ihren Leib zu wenden, weben sollten; doch sollten die Schwestern
+dasselbe Tuch niemanden anders verschneiden oder zu kaufen geben,
+weder in noch vor ihrem Hause[34]. Weniger engherzig ist die II.
+württembergische Landesordnung von 1515[35]. In ihr wird »zugelassen,
+dass man in jedem Amt den Schwestern und Begynen in iren heusern ain
+genante zal der schwestern bestimmen mög, wie vil sie deren haben
+sollen und nit darüber, ..... das man auch denselben schwestern ain zal
+webstül bestimme zu haben vnd nit darüber, nemlich je vff vier swestern
+ain webstul vnd nit mehr, damit die innwoner daneben nit überladen
+werden vnd sich auch irnthalb one verhindert erneren mögen.«
+
+Ausserdem sollten die Bekinen Liebeswerke verrichten, Arme speisen,
+Kranke besuchen, Tote zur letzten Ruhestätte geleiten. In München
+war das Warten der Kranken und die Besorgung der Toten ihre
+ausschliessliche Aufgabe; in Augsburg hatten sie die Krankenpflege
+in den Spitälern; in anderen Städten pflegten sie, wie heute die
+barmherzigen Schwestern und Diakonissinnen, vorzugsweise in den
+Häusern. In Frankfurt wurden ihnen wohl Findlinge, in Wesel auch andere
+arme Kinder zur Erziehung und Unterweisung im Lesen, Schreiben und in
+Handarbeiten übergeben. Ausserdem hatten sie den Todestag des Stifters
+und der Wohltäter ihres Hauses durch Gebet für deren Seelenheil in der
+Kirche zu begehen.
+
+Die +Aufnahme+ der Schwestern erfolgte bei der Gründung eines
+Gotteshauses durch den Stifter oder die Stifterin, später meist durch
+Abstimmung aller vorhandenen Schwestern. Brachte die Aufgenommene
+eigenes Vermögen mit, so behielt sie die Verfügung über dasselbe und
+wurde dafür auch zur Steuer herangezogen, wenn es einen bestimmten
+Betrag überstieg[36]; nach ihrem Tode wurde es in Strassburg den
+Erben übergeben; in Frankfurt fiel es an das Gotteshaus. In vielen
+niederländischen Beguinereien wurde ein Einkaufsfeld und der Bau des zu
+bewohnenden Häuschens gefordert; der Nachlass verstorbener Mitglieder
+fiel dem Gesellschaftsvermögen zu. Hier und da war ein Probejahr
+vor der endgültigen Aufnahme Vorschrift. Der Austritt zum Zwecke
+der Verehelichung oder aus anderen Gründen war jederzeit gestattet.
+Ausschliessung erfolgte wegen schlechter Aufführung, wegen Ungehorsams,
+wegen Störung der Eintracht, wegen Umhertreibens und wegen verbotenen
+Umgangs mit Männern. Meist musste dabei der weltliche Pfleger des
+Gotteshauses oder der Beichtvater der Schwestern zu Rate gezogen werden.
+
+Die +Leitung+ des gemeinsamen Haushalts der Bekinen war einer
+Meisterin, mitunter auch mehreren anvertraut. Im ersteren Falle
+erfolgte die Ernennung durch allgemeine Wahl, im letzteren durch
+Zuwahl. In Strassburg wechselten die Vorsteherinnen alle Jahre, in
+Frankfurt waren sie meist auf Lebenszeit eingesetzt. Die Schwestern
+waren zum Gehorsam gegen die Meisterin verpflichtet. Unbotmässige
+Elemente scheinen indessen nicht selten vorgekommen zu sein. Wenigstens
+sind zwei Fälle bekannt (aus Frankfurt a. M. und Ulm), wo in grösseren
+Bekinenhäusern Gefängnisse eingerichtet wurden, um die Widerspenstigen
+zu strafen.
+
+Die +Tracht+ der Bekinen schloss sich im Schnitt der Gewandung
+einfacher Bürgersfrauen an. Sie bestand aus einem Gewand von grauem,
+schwarzem oder blauem Wollenstoff mit einer weissleinenen Kaputze
+und weissem Schleier, über die sie beim Ausgehen noch ein schwarzes
+Wollentuch schlugen. Daher auch die Benennungen graue oder schwarze
+oder blaue Schwestern. Die +Kost+ war gewöhnlich sehr einfach. Reichere
+Gotteshäuser konnten auch in dieser Hinsicht einigen Aufwand gestatten.
+In manchen Strassburger Anstalten dieser Art erhielten die Schwestern
+täglich ihren Wein, und dies in gar nicht kleinen Quantitäten. An den
+Jahrestagen des Stifters und anderer Wohltäter pflegte der Tisch etwas
+reicher besetzt zu sein. Der +Hausrat+ nahm sich meist ärmlich genug
+aus; insgemein brachten die Schwestern nichts mit als ihr Bett und ihre
+Kleidung.
+
+Tagüber hielten sich die Schwestern in einer gemeinsamen Wohnstube auf,
+der einzigen, die im Winter geheizt wurde. In Strassburg war ihnen
+nicht erlaubt, in diesem Zimmer am Rade zu spinnen, damit diejenigen,
+welche gerade in frommer Betrachtung begriffen waren, nicht durch das
+Schnurren des Rades gestört würden[37]. In dem Konvent auf dem Sande
+zu Wesel war auch ein gemeinsames Schlafzimmer vorgeschrieben. Nur die
+»Kranken und die alten Glatzköpfe« konnten gesondert untergebracht
+werden[38]. In der Verfügung über ihre Zeit zum Arbeiten und Schlafen
+scheinen sie an keine besonderen Vorschriften gebunden gewesen zu sein.
+Aber keine Schwester sollte ohne Erlaubnis der Vorsteherin ausgehen,
+und nie allein, sondern stets zu zweien, auch nicht vor Sonnenaufgang
+und nicht nach Sonnenuntergang, es sei denn, dass um einer redlichen
+Ursache willen die Vorsteherin es gestattet habe[39].
+
+In +religiöser Beziehung+ hatten die Bekinen keine andern
+Verpflichtungen als alle ehrbaren Frauen; wohl aber wurden sie
+bezüglich der Einhaltung derselben durch den Stadtpfarrer oder die
+Ordensgeistlichkeit überwacht. Die Kirche musste natürlich darnach
+streben, so weit verbreitete Anstalten ganz unter ihre Aufsicht und
+Leitung zu bringen. Namentlich im XIII. Jahrhundert suchte sie die
+Bekinen wie einen geistlichen Orden zu behandeln, und eine Synode zu
+Fritzlar fasste 1244 den Beschluss, dass keine Schwester aufgenommen
+werden dürfe, die jünger als 40 Jahre sei. Allein soweit wir
+sehen, ist dieser Beschluss nirgends zur Durchführung gelangt. Die
+städtischen Räte boten vielmehr alles auf, um die Gotteshäuser nicht
+zu kirchlichen Anstalten werden zu lassen; sie setzten ihnen weltliche
+Pfleger und Provisoren zur Wahrnehmung der Vermögensverwaltung und
+zur Aufrechterhaltung der Ordnung; sie unterstellten sie in allen
+bürgerlichen Beziehungen dem gemeinen Recht. Vielleicht gab das mehr
+Grund für die Verfolgungen, welche im Anfang des XIV. Jahrhunderts von
+Seiten der Kirche über die armen Schwestern verhängt wurden, als die
+Ketzereien, deren man sie beschuldigte. Einzelne Gotteshäuser haben
+allerdings die Regeln des dritten Ordens angenommen[40], aber nur wo es
+die weltliche Gewalt gestattete; andere waren schon von ihren Stiftern
+unter die Aufsicht irgend einer geistlichen Behörde gestellt worden.
+Der Einfluss der Geistlichkeit erstreckte sich aber auch in diesen
+Fällen nur auf die religiös-sittliche Seite.
+
+Im XV. Jahrhundert ist an verschiedenen Orten das Bekinenwesen arg
+entartet. Viele Gotteshäuser waren durch die zahlreichen kleinen
+Schenkungen und Vermächtnisse, welche ihnen im Laufe der Zeit zuteil
+geworden waren, reich geworden, und ihr Renteneinkommen gestattete den
+Schwestern ein müssiges Leben. Die Arbeit an der Kunkel und am Webstuhl
+wurde eingestellt; mehr und mehr beschränkten sich die Schwestern auf
+das leichte und gewinnbringende Gewerbe der Leichenbitterinnen und
+Klageweiber. Der religiöse Sinn, welcher früher unter ihnen geherrscht
+hatte, erstarb zusehends. Man kann sich denken, welche Folgen das
+Zusammenleben solcher meist ungebildeten, jedes höhern Lebenszweckes
+entbehrenden, aber in ihrer Existenz gesicherten Frauenzimmer, die
+teilweise noch in jugendlichem Alter standen, nach sich zog. Männer
+durften zwar nicht in die Gotteshäuser kommen; aber man traf sich
+mit ihnen ausserhalb derselben. Dazu kam der verderbliche Einfluss
+der Bettelorden, die vielfach die Seelsorge der Schwestern übten
+und in ihre Anstalten freien Zutritt hatten. Schon 1372 klagten die
+Strassburger Nonnen von St. Marx, St. Katharinen und St. Nicolai
+in undis beim Papste Gregor XI. über die Dominikaner: »sie wollen
+uns ihren geistlichen Beistand nur gewähren, wenn wir ihnen Geld,
+Geschmeide und andere Dinge geben; sie kommen in unsere Klöster in
+kurzen Röcken, bebänderten Mützen, Stiefeln, wie weltliche Leute;
+sie haben vor uns getanzt und uns zu eitler Lust aufgefordert,
+ja einige von uns haben sie zur Sünde verführt«. Wenn das in den
+Klöstern geschehen konnte, was mochte erst in den weit zugänglicheren
+Gotteshäusern vorkommen! Sebastian Brant schildert die Strassburger
+Bekinen als ein nichtsnutziges Schmarotzervolk; sie taugten kaum mehr
+zu etwas anderem, als bei Prozessionen und Leichenbegängnissen bezahlte
+Gebete zu murmeln. In Frankfurt a. M. werden sie in öffentlichen
+Aktenstücken mit Dirnen der verworfensten Art in eine Linie gestellt.
+Kein Wunder, dass die Zeitgenossen sich keinen klaren Begriff mehr über
+den wahren Charakter der ganzen Einrichtung machen konnten und dass der
+Verfasser der Dunkelmännerbriefe die Frage aufwirft, ob die Lolharden
+und Begutten zu Köln geistliche oder weltliche Leute seien. Brant
+schliesst seine Schilderung der Bekinen mit dem ohne Zweifel ehrlich
+gemeinten Stossseufzer:
+
+    »Ach werent sy zu Portugall,
+    Ach werents an derselben statt,
+    Do der pfeffer gewachsen hatt,
+    Und nymmer möchten her gedenken!
+    Ich wollt in gern das weggeld schenken.«
+
+Die Reformation hat denn auch sehr rasch mit der überlebten Einrichtung
+aufgeräumt; sie hat die Gotteshäuser gewöhnlichen Zwecken zurückgegeben
+oder sie in Krankenanstalten, Schulen u. dgl. verwandelt; nur in den
+Niederlanden haben sich die Bekinenhöfe bis auf die neueste Zeit
+erhalten.
+
+Es konnte nicht fehlen, dass die grosse Zahl der alleinstehenden Frauen
+im Mittelalter auch zu weit bedenklicheren Erscheinungen führte, dass
+namentlich das +Verhältnis der beiden Geschlechter zu einander+ davon
+ungünstig beeinflusst wurde. Ganz allgemein dürfte hier die Bemerkung
+am Platze sein, dass man zu einer durchaus schiefen Beurteilung der
+mittelalterlichen Gesellschaft gelangt, wenn man jenes Verhältnis
+immer nur in dem rosig schimmernden Lichte betrachtet, mit dem es
+der ritterliche Minnesang und Frauendienst verklärt hat. Dieser
+Idealzustand verfeinerter Sinnenlust beschränkte sich selbst im XII.
+Jahrhundert nur auf einen verhältnismässig sehr kleinen Kreis, und
+auch hier mag noch zwischen der Theorie und Praxis der Liebe ein sehr
+bedeutender Unterschied gewesen sein. Im XIV. und XV. Jahrhundert
+ist von der vielgepriesenen frommen Zucht und Sitte eben so wenig im
+städtischen Leben, das wir nach dieser Hinsicht genauer kennen, als bei
+dem in raschem Verfalle begriffenen Rittertum zu verspüren. Eheliche
+Treue ist in den höheren Ständen während des ganzen Mittelalters
+nicht sehr häufig; die Bastardkinder werden in der Vaterfamilie mit
+den ehelichen Söhnen und Töchtern zusammen erzogen; eine derbe, fast
+rohe Sinnlichkeit beherrscht die Beziehungen der Geschlechter in allen
+Klassen der Bevölkerung. Die Begriffe von Sitte und Anstand sind von
+den unseren weit verschieden, und die naive Offenheit, mit der wir
+überall auch die anstössigsten Dinge behandelt sehen, liegt weit ab von
+den Manieren der heutigen Zeit. Die Kirche hat nach dieser Richtung
+wenig Einfluss zu üben verstanden; sie war zufrieden, wenn ihre Regeln
+sonst streng beobachtet wurden. Trug sie doch selbst die Züge jenes
+übersinnlich-sinnlichen Doppelwesens, das der Zeit eigen war.
+
+Auf jenen derben Holzschnitten, welche uns aus dem Ende des XV. und
+dem Anfang des XVI. Jahrhunderts erhalten sind, erblicken wir nicht
+selten Frauen in Gesellschaft von Männern bei Wein und Würfelspiel,
+bei Schmausgelagen und ausgelassenen Tänzen. Sie sind neben andern ein
+Beweis dafür, dass die Frauen in Deutschland damals weit entfernt waren
+von jener strengen Abgeschlossenheit, die wir in südlichen Ländern
+treffen. Sie beteiligten sich in gleicher Weise an den gewöhnlich
+recht materiellen Vergnügungen wie die Männer. Im württembergischen
+Zabergau feierten sie allerorts jährlich auf Fastnacht ihre
+Weiberzechen -- Schmausereien, bei denen kein Mann zugegen sein
+durfte, ausser dem Schultheiss und dem Bürgermeister, welche die
+Dienste der Kellner und Aufwärter zu versehen hatten und bei welchen
+es sehr lustig herging[41]. Bei den Festen der Geschlechter, auf den
+Trinkstuben der Zünfte und Brüderschaften, bei Volksbelustigungen auf
+Märkten und Messen, auf freien Plätzen und in den Vorhallen der Kirchen
+-- überall wo es etwas zu gaffen und zu geniessen, zu tanzen, zu
+springen und zu singen gab, erblicken wir die Frauen, und meist nicht
+eben als Wächterinnen des guten Tons und der strengen Sitte, sondern
+als Ausgelassene unter den Ausgelassenen, oft als Anführerinnen der
+Fröhlichen. Das schliesst nicht aus, dass sie anderwärts wieder als
+Trägerinnen des religiösen Lebens erscheinen, dass sie als Beterinnen
+und Büsserinnen zu Füssen des Gekreuzigten liegen und der gebenedeiten
+Gottesmutter Maria, dass sie als Nonnen die Klöster füllen und als
+Pilgerinnen die Lande durchziehen.
+
+Das Mittelalter, das schon den Wechsel der Jahreszeiten sehr viel
+lebhafter empfand als wir, war auch sonst reich an derartigen
+Gegensätzen. Wie hätte es auch anders sein können in einer
+Gesellschaft, die fortwährend den jähesten Wechselfällen ausgesetzt
+war? Fast nirgends erblicken wir das ruhige Behagen einer in festen
+Linien sich bewegenden stetigen Entwicklung, nirgends den heitern
+Lebensmut, der die Menschen einer rechts- und existenzsicheren Zeit
+beseelt. Selbst die Bevölkerung der Städte hielt sich im XIV. und XV.
+Jahrhundert meist nur mit Mühe auf ihrem frühern Bestand, und dies auch
+nur mittels einer massenhaften Einwanderung aus der nahen ländlichen
+Umgebung. Kriege, Missernten, Hungersnöte, der jähe Tod rafften alle
+paar Jahre ein Viertel, ein Drittel, manchmal gar die Hälfte der
+vorhandenen Menschen dahin. Von 1326 bis 1400 zählte man 32 Pestjahre,
+von 1400-1500 41, von 1500-1600 30. Wie ist es unter der Angst solch
+steter Lebensbedrohung auch nur denkbar, dass die Menschen ein heiteres
+Gleichgewicht ihres geistigen und sinnlichen Daseins hätten bewahren
+können!
+
+Hart neben einander lagen darum im täglichen Leben der
+mittelalterlichen Gesellschaft toller Lebensgenuss und büssende
+Entsagung; heute schlürfte man den Becher der Lust bis zur Neige,
+um morgen in bitterer Reue sich der Welt abzukehren, das Fleisch
+zu ertöten, mit Fasten und Beten, mit Geissel und Bussgürtel
+sich zu kasteien. Von der Kirche zum Tanzhaus, von der Kutte zur
+Fastnachtsmummerei, von der Büssergeissel zur Schellenkappe war oft nur
+ein kleiner Schritt.
+
+    Himmelhoch jauchzend,
+    Zu Tode betrübt --
+
+das ist die Stimmung des ausgehenden Mittelalters, welche mit
+ergreifender Naturwahrheit die Kunst in den Totentänzen mit ihrem
+schneidenden Sarkasmus und ihren packenden Kontrasten wiedergespiegelt
+hat.
+
+Es kann uns darum auch kaum Wunder nehmen, wenn wir in den Chroniken
+der Zeit unmittelbar neben der Schilderung des schwarzen Todes und der
+Geisslerfahrten, neben der Erzählung von grausigen Judenschlächtereien,
+blutigen Fehden und Hinrichtungen die Darstellung der Tanzwut lesen,
+welche im XIV. Jahrhundert die ganze Bevölkerung der rheinischen Städte
+ergriff[42], wenn wir sehen, dass während heute nicht Hände genug
+vorhanden sind, um die Toten zu begraben, morgen schon die Kirchen kaum
+die Zahl der Brautpaare zu fassen vermögen, welche sich zum Traualtar
+drängen[43], wenn wir in den städtischen Gesetzbüchern auf derselben
+Seite einen Ratsbeschluss gegen die allzuzahlreichen Widmungen an die
+Kirche finden, auf welcher auch ein Verbot des übermässigen Luxus
+bei Hochzeiten und Kindtaufen Platz gefunden hat, wenn wir in einer
+Epoche, die viele sich als das Urbild des Beharrens denken, die Moden
+fast über Nacht wechseln sehen. »In der zeit (um 1380) war der sitt
+von der kleidung verwandelt, also, wer heur ein meister war von den
+schneidern, der war über ein jahr ein knecht«[44]. Es gibt vielleicht
+keine Erscheinung dieser Zeit, die all diese scharfen Gegensätze so
+verkörpert, wie jener aussätzige Barfüssermönch, von welchem die
+Limburger Chronik erzählt, dass er bei all dem unsäglichen Elend seiner
+Krankheit »die besten lieder vnd reihen machte .... und was er sung,
+das sungen die leut alle gern, vnd alle meister pfiffen und andere
+spilleut furten den gesang und das Gedicht...., und war das alles
+lustiglich zu hören«[45].
+
+Erwägen wir dies alles, so wird uns auch das zahlreiche Auftreten und
+das wunderliche Gebaren der +fahrenden Leute+[46] verständlicher,
+unter denen wieder die Frauen massenweise vertreten waren. Diese
+fahrenden Frauen finden wir zunächst in der Gesellschaft jener
+Gaukler- und Possenreisserbanden, jener Spielleute und Bettler, die
+wir das ganze Mittelalter hindurch überall da erscheinen sehen, wo
+ein grosser Zusammenstrom von Menschen stattfand. Sie traten hier auf
+als Spielweiber und herumziehende Künstlerinnen, als Gauklerinnen
+und Tänzerinnen, als Leier- und Harfenmädchen. In mancher Hinsicht
+berühren sie sich mit dem leichten Volk der fahrenden Schüler und
+wandernden Kleriker, gegen welche die Konzilien vergeblich eiferten.
+Sie erscheinen in grossen Scharen am fürstlichen Hoflager, bei den
+Kaiserkrönungen, auf Reichstagen, Turnieren, Kirchenversammlungen, auf
+Messen und Märkten. »Man kann sich nichts Widerlicheres denken«, sagt
+Weinhold, »als diese entsittlichten hungernden und lungernden Banden,
+welche zu Hunderten durch das Land streiften, wo sich nur ein Fest
+zeigte, den Raben gleich sich sammelten und ihre durchlöcherte Hand
+frech fordernd hinhielten.«
+
+Scharen dieser fahrenden Weiber begleiteten schon die Kreuzfahrer
+nach Asien. Dem französischen Heere sollen ihrer i. J. 1180 nicht
+weniger als 1500 gefolgt sein, und noch Ludwig der Heilige vermochte
+den dadurch in seinem Heere entstandenen Unfug kaum zu dämpfen. Von
+Friedrich II., der 1229 im Gelobten Lande sich aufhielt, erzählt
+Matheus Parisiensis, der Mönch von St. Alban, dass er Sarazenen, die
+er zur Tafel gezogen hatte, durch die Künste christlicher Spielweiber
+unterhielt. Am französischen und englischen Hofe gab es im XIII. und
+XIV. Jahrhundert einen eigenen Marschall zur Beaufsichtigung dieser
+Personen. In Deutschland finden wir sie 1394 bei dem Reichstage zu
+Frankfurt a. M. in der ansehnlichen Zahl von 800, und die Menge
+der fahrenden Frauen, welche sich zu den Konzilien von Basel und
+Konstanz eingefunden hatten, soll 1500 betragen haben. In Basel hatte
+während des Konzils der Herzog von Sachsen in seiner Eigenschaft
+als Reichsmarschall die Aufsicht über die fahrenden Dirnen. Er war
+es auch, der eine Zählung derselben veranstaltete, die aber nur zur
+Hälfte durchgeführt wurde, weil der damit Beauftragte das widerwärtige
+Geschäft für zu gefährlich hielt[47].
+
+Wie im Gefolge des Adels und der Geistlichkeit, so erscheinen sie nicht
+minder zahlreich im Tross der in den französisch-englischen Kriegen
+aufgekommenen Söldnerheere. Schon aus dem XIV. Jahrhundert erzählt
+Königshofens Chronik, dass ihrer 800 mit den Landsknechten zu Felde
+gezogen seien und dass sie zu ihrer Beschirmung einen eigenen Amtmann
+gehabt, dem sie wöchentlich eine Abgabe entrichten mussten. Dieser
+Amtmann oder Weibel bildet eine stehende Charge in den Heeren bis zum
+dreissigjährigen Kriege. Dass aber jene Massen fahrender Weiber, welche
+gewöhnlich mit den Trossbuben zusammengenannt werden, den Zeitgenossen
+als integrierendes Glied der Heeresorganisation erschienen und dass sie
+auf Kriegszügen wichtige Dienste leisteten, lernen wir aus Leonhard
+Fronspergers Kriegsbuch[48], das sich über die Aufgaben besagten
+Weibels weitläufig vernehmen lässt. Aus seiner Darstellung erkennt man,
+wie leicht sich die zahlreiche weibliche Gefolgschaft der Landsknechte
+der damaligen Heeresordnung als nützliches und selbst notwendiges Glied
+einfügen liess, und wir werden uns deshalb nicht mehr wundern, wenn wir
+lesen, dass Herzog Albas Heer auf seinem Zuge nach den Niederlanden von
+400 Dirnen zu Pferd und 800 zu Fuss, »in Kompagnien geteilt und hinter
+ihren besonderen Fahnen in Reih und Glied geordnet«, begleitet war.
+»Jeder war nach Verhältnis ihrer Schönheit und ihres Anstandes der Rang
+ihrer Liebhaber bestimmt und keine durfte bei Strafe diese Schranken
+überschreiten«[49].
+
+So befremdlich und widerwärtig uns diese Erscheinung auch anmuten mag,
+so kann doch der Versuch nicht allzu schwer fallen, sie zu erklären und
+uns menschlich näher zu rücken.
+
+Eine sichere, sesshafte Existenz war im Mittelalter weit seltener
+möglich und wurde selbst weniger als Bedürfnis empfunden als
+heutzutage. Wie noch in unserer Zeit die Tataren der russischen Steppe
+leichten Muts ihre Zeltdörfer abbrechen, nachdem sie in einjähriger
+Brennwirtschaft dem Boden flüchtig eine Ernte abgewonnen, so haben
+im XIII. und XIV. Jahrhundert nicht selten ganze Dorfschaften in
+Deutschland ihre Sitze gewechselt. Hunger und Kriegsnot, Hagelschlag
+und Viehsterben, vielleicht auch bloss der lebendige Wandertrieb und
+das Bewusstsein, wenig zu verlieren zu haben -- wer weiss, welche
+Momente noch sonst hier jedesmal wirksam wurden! Ein grosser Teil
+der Bevölkerung lag beständig auf der Landstrasse, und die Weistümer
+der Dörfer wie die Ratsbeschlüsse der Städte gedenken dieser
+wandernden Leute gleichmässig mit Nachsicht, ja mit mildtätiger
+Fürsorge. Bei den oft wiederkehrenden allgemeinen Notständen bildeten
+sich ganze Bettlerheere von Männern und Weibern, überfielen wie
+Heuschreckenschwärme die Städte und erforderten nicht selten ernstliche
+Vorkehrungen[50]. Viele von ihnen mögen dann nie wieder zur dauernden
+Ansässigkeit gelangt sein. Die alleinstehenden Frauen namentlich,
+schutz- und hilflos in einer gewalttätigen Gesellschaft, mochten sich
+leicht entschliessen, ihren Wohnort zu verlassen und einem lockenden
+Rufe in die Ferne zu folgen. Die Frankfurter Steuerlisten des XIV. und
+XV. Jahrhunderts geben uns eine Vorstellung davon, wie entsetzlich
+verbreitet die Armut unter ihnen war. Im Jahre 1410 führt das Bedebuch
+2461 Steuerpflichtige auf, von denen 336 oder 13,7 Prozent ausdrücklich
+als arm bezeichnet werden. Von der Gesamtzahl waren 1888 Männer und 568
+Frauen; unter den Männern gab es 148 oder 7,8 Prozent Arme, unter den
+Frauen 188 oder 33,6 Prozent! Das Mittelalter kannte freilich keine
+Armenpolizei, die dem Bettel mit Gefängnisstrafen beikommen zu können
+meinte. Noch im Jahre 1489 beschloss der Frankfurter Rat -- wer weiss,
+zum wie vielten Male? -- _keynen frembden betteler nit vffnemen zu
+burger_. Auf freien Plätzen und an Strassenecken, vor den Kirchtüren
+und auf den Brücken lagen die Blinden, die Lahmen, die Aussätzigen,
+und nicht selten schlugen Bettler und Vagantenscharen hart unter den
+Stadtmauern ihre Barackenlager auf, wenn man ihnen die Tore verschloss.
+Bei Messen und Kaiserkrönungen sowie an den offiziellen Betteltagen
+ergossen sie sich dann unaufhaltsam in die Stadt.
+
+Was sollte diese Leute an der Scholle halten, wenn ihr Erwerb
+spärlicher floss und der Wettbewerb um die private Mildtätigkeit zu
+gross wurde? Auch hier geben die Frankfurter Steuerlisten erwünschten
+Aufschluss. Oft genug fanden die Bedemeister die Quartiere der
+steuerpflichtigen Frauen leer. »_Recessit_«, »_Ist enweg_«, »_Ist
+davon gelauffen_«, »_Ist gangen bedeln_«, wird dann wohl lakonisch
+hinter dem Namen bemerkt: niemand weiss, wohin sie gekommen. Dass
+sich aus derartigen Elementen die Schwärme der Fahrenden vielfach
+rekrutierten, unterliegt kaum einem Zweifel. Oft mag freilich auch
+die Scheu vor der Arbeit an der Spindel oder auf dem Felde, die Lust
+an einem ungebundenen Leben ausschlaggebend gewesen sein. In einem
+Volksliede[51] dieser Zeit fragt eine Mutter ihre Tochter:
+
+    »Och metgen, wat hait dir der rocken gedain,
+    dat du niet me machs spinnen?
+    du suist in over die aesselen an
+    recht wolstu mit eime kinge.«
+
+Und die Tochter antwortet:
+
+    »Och moder, ich haven ein eit gesworn,
+    dat ich niet me mach spinnen,
+    ich haven ein lantsknecht lef und wert,
+    licht mir in minen sinnen.
+    Hi drinkt so gerne den kölen win,
+    hi sluit mich in sin blanke armelin
+    den awent zu dem morgen.«
+
+In einem andern[52] stellt die Mutter dem Mädchen die Wahl frei
+zwischen einem Ritter, einem Bauern und einem Landsknecht, und die
+Tochter antwortet:
+
+    »Boeren, dat sijn boeren,
+    si drinken so selden den wijn,
+    so en doet die vrome lantsknecht niet,
+    hi schencter so dapperlic in.«
+
+Manchmal mag auch die Verführung das ihrige getan haben, wie in dem
+bekannten Liede[53]:
+
+      »Nun schürz dich, Gredlein, schürz dich!
+    wolauf, mit mir darvon!
+    das korn ist abgeschnitten,
+    der wein ist eingeton« ...
+
+      Do nam ers bei der hende,
+    bei ir schneweissen hant,
+    er fürets an ein ende,
+    do er ein wirtshaus fand.
+
+      »Nun wirtin, liebe wirtin,
+    schaut uns umb külen wein!
+    die kleider dises Gredlein
+    müssen verschlemmet sein.«
+
+War einmal der verhängnisvolle Schritt getan, so gab es so leicht keine
+Rückkehr. Die Frauen fast aller Stände folgten nur zu leicht der eiteln
+Weltlust. Ueber die hohen Klostermauern, durch die Schlüssellöcher der
+eisenbeschlagenen Pforten hielt sie ihren Einzug:
+
+    »Gott geb dem ein verdorben jar,
+    der mich macht zu einer nunnen
+    und mir den schwarzen mantel gab,
+    den weissen rock darunden!«
+
+So sang und pfiff man um 1359 auf allen Strassen[54].
+
+Die fahrenden Leute waren im Mittelalter ehr- und rechtlos; um so
+lieber mochten sich die Frauen den Kriegsheeren anschliessen, wo sie
+mindestens geduldet und geschützt waren und wo sie in den wilden Ehen,
+die sie mit den Landsknechten und ihren Offizieren eingingen, einigen
+Rückhalt fanden. Endlich bleibt zu erwägen, dass die Art der damaligen
+Kriegsführung die Mitnahme zahlreicher Frauenzimmer, wenn auch
+vielleicht nicht unbedingt nötig machte, so doch sehr erleichterte.
+Durch viele Stellen der Landsknechtslieder wird bezeugt, dass nicht
+leicht einer ohne sein »Fräulein« auszog:
+
+    »Der in den krieg wil ziehen
+    der sol gerüstet sein;
+    was sol er mit im füren?
+    ein schönes frewelein,
+    ein langen spiess, ein kurzen tegen;
+    ein herren wöln wir suchen,
+    der uns gelt und bscheid sol geben.«[55]
+
+Freilich wurden diese Ehen oft ebenso rasch gelöst als geschlossen. In
+einem andern Volkslied wird das Betragen der Frauen nach einer Schlacht
+geschildert:
+
+    »Erst hebt sich an die klag der trewen frawen,
+    ein iede tut nach irem man umb schawen;
+    welcher der ir ist bliben tot,
+    darf nit vor schanden lachen --
+    biss sie ein andern hat.«
+
+Mag dieser Uebergang zu »einem Andern« die Regel gebildet haben,
+immerhin finden wir auch Beispiele unwandelbarer Treue, wie in dem
+schönen Liede[56] von den neun Landsknechten und einer jülich’schen
+Maid, die ihren in Gefangenschaft geratenen Geliebten zu retten
+sucht. So fällt auch auf dieses unserem Empfinden so wenig zusagende
+Verhältnis ein versöhnender Strahl der alles wagenden und alles
+duldenden Liebe.
+
+       *       *       *       *       *
+
+Unstreitig die bedenklichste Erscheinung des Mittelalters bilden
+diejenigen +fahrenden Frauen+, welche +in den Städten sich dauernd
+niederliessen+ und hier nicht wenig zur Lockerung der Sitten
+beitrugen[57]. Dieselben kommen zwar auch noch unter mancherlei
+anderen Namen vor[58]; dass sie jedoch vorwiegend +Fremde+ waren,
+zeigen zahlreiche Bestimmungen der über sie erlassenen Ratsordnungen.
+Das Mittelalter war in Beziehung auf die öffentlichen Dirnen weit
+entfernt von jener übelangebrachten Prüderie, die heute noch so
+vielfach eine unbefangene Erörterung dieses ja immerhin sehr heikeln
+Gegenstandes verhindert. Es nahm ihr Bestehen als ein »zur Verhütung
+grösseren Unheils« notwendiges Uebel hin, dessen Beseitigung kaum
+je ernstlich in Erwägung gezogen wurde. In Frankfurt konnten sie
+das Bürgerrecht erlangen und wurden wie andere Neubürger in das
+Bürgerbuch eingetragen[59]. Die Frauen, welche sich dem elendesten
+aller Gewerbe hingaben, betrachtete man mehr als Unglückliche, Verirrte
+und Leichtsinnige[60] denn als Lasterhafte. Den Männern, welche ihren
+Umgang suchten, haftete ebensowenig ein Makel an als denjenigen, welche
+in »Unehe« (dem Konkubinat) lebten. Bildete doch selbst in den Zeiten
+des ritterlichen Frauendienstes der eheliche Stand eines von beiden
+Teilen oder beider für die »Minne« kein Hindernis.
+
+Oeffentliches Aergernis suchte freilich auch das Mittelalter in diesen
+Dingen zu vermeiden; aber es fasste diesen Begriff doch noch sehr
+eng. Die gemeinen Frauen wurden fast überall gezwungen, in bestimmten
+entlegenen Strassen oder in den Vorstädten zu wohnen; am häufigsten
+suchte man sie in +Frauenhäusern+ zu vereinigen. Die letzteren waren
+meist von den Stadträten selbst oder den Landesherren errichtet und
+bildeten dann oft eine vom Standpunkt der städtischen Finanzen nicht
+zu unterschätzende Einnahmequelle, welche selbst hohe kirchliche
+Würdenträger ohne Skrupel auspumpten und der Adel gern zu Lehen nahm.
+Sie wurden von den Städten entweder in eigenem Betrieb durch Beamte
+verwaltet oder an Privatunternehmer verpachtet. Die letzteren hiessen
+Frauenwirte und Wirtinnen oder Frauenmeister, bez. Meisterinnen,
+und waren durchweg an genaue Vorschriften gebunden. Sie unterlagen
+hierbei der Beaufsichtigung durch die städtischen Behörden. Meist war
+den Ratsknechten, oft auch dem Henker oder Stöcker die unmittelbare
+Ueberwachung der Dirnen anvertraut; die letzteren hatten diesen
+Bediensteten dafür gewisse wöchentliche Gebühren zu entrichten. Die
+Oberaufsicht lag gewöhnlich in den Händen des Bürgermeisters oder einer
+Ratsdeputation, deren Befugnisse fast unbeschränkt waren.
+
+Die Frauenhäuser standen als befriedete Orte unter einem ganz
+besonderen Schutz; Unfug, der dort verübt war, wurde doppelt hart
+bestraft. Die Insassen derselben genossen eines ausschliessenden
+Gewerberechts; wie die Zunftmeister gegen Störer und Bönhasen, so
+gingen sie gegen den unlauteren Wettbewerb der »heimlichen« Frauen
+vor, welche in Bürgerhäusern ihre Schlupfwinkel hatten, und mehr als
+einmal übten sie gegen diese gewalttätige Selbsthilfe. Eigentliche
+Korporationen, wie in Genf und Paris, scheinen sie in Deutschland nur
+vereinzelt gebildet zu haben; so hatten die öffentlichen Frauen in
+Leipzig eine Verbindung mit eigenen Satzungen, die ihre Vorsteherin
+selbst wählte und jährlich auf Mitfasten eine Prozession hielt.
+Ueberall aber waren sie bei öffentlichen Festlichkeiten, namentlich
+bei Fürstenempfängen, neben der körperschaftlich geordneten übrigen
+Bevölkerung als besondere Standesgruppe vertreten. Selbst bei den
+Schmäusen und Tänzen, mit welchen sich die ehrsame Bürgerschaft und
+der Rat vergnügten, war ihnen zu erscheinen erlaubt. Sie pflegten
+bei solchen Gelegenheiten wohl ihre Glückwünsche darzubringen und
+Blumensträusse zu überreichen, wogegen sie eine Ehrung, bestehend
+in Speise und Trank oder einem Geldgeschenke, empfingen. Bei der
+Durchreise hoher Herrschaften wurden ihre Häuser zu deren Empfang
+besonders geschmückt und beleuchtet; ja sie wurden bisweilen bei
+solchen Gelegenheiten auch auf städtische Kosten gekleidet. In
+Zürich herrschte noch 1516 der Brauch, dass der Bürgermeister, die
+Gerichtsdiener und die gemeinen Frauen mit den fremden Gesandten,
+welche in die Stadt kamen, zusammen speisten.
+
+Das Tun und Treiben in den Frauenhäusern war durch besondere Ordnungen
+geregelt, welche einen schlagenden Beweis für die eingehende Sorgfalt
+und die menschenfreundliche Gesinnung abgeben, mit denen das
+Mittelalter auch jene elendesten aller menschlichen Wesen behandelte.
+Jedenfalls stechen sie vorteilhaft ab gegen die Massregeln der
+modernen Sittenpolizei, welche in diesen Dingen noch immer zwischen
+weitherziger Duldung und radikaler Unterdrückung einen nicht sehr
+würdigen Eiertanz aufführt. Sie suchen die öffentlichen Frauen vor
+Uebervorteilung und roher Behandlung durch Wirte oder Wirtinnen zu
+schützen, ihnen die Freiheit der Bewegung, das Recht des Kirchenbesuchs
+und die Heilighaltung der Festtage zu gewährleisten und ihnen die
+Rückkehr zu einem geordneten Lebenswandel zu erleichtern. Früh finden
+wir eine gesundheitliche Ueberwachung derselben, und in Ulm gab es
+sogar eine besondere Badstube für ihren Gebrauch. In dem dortigen
+Frauenhause wurden die Weiber zur Arbeit angehalten; jede Insassin
+musste dem Wirte täglich zwei »Andrehen« Garn spinnen oder, wenn sie
+das nicht wollte, ihm für jede Andrehe 3 Heller zahlen. Dafür war
+der Wirt auch verpflichtet, in die Hilfskasse der Frauen, zu der
+jede wöchentlich einen Heller zahlte, jedesmal das Doppelte dieses
+Betrags zu legen. Das gesammelte Geld diente dazu, krank oder brotlos
+gewordene Frauenhauserinnen zu unterstützen. Es bestand also Kranken-
+und Arbeitslosen-Versicherung, zu der Unternehmer und Arbeiterinnen
+beitrugen. Ueber Kost und Lohn enthält die Frauenhausordnung von 1416
+die genauesten Vorschriften; überall leuchtet das Bestreben durch,
+die Gewalt des Wirtes in möglichst enge und fest bestimmte Grenzen
+einzuschliessen.
+
+Wie gross die Anzahl der feilen Frauen in den einzelnen Städten gewesen
+sei, lässt sich fast nirgends mehr bestimmen. In den meisten Städten
+finden wir mehrere (meist zwei oder drei) Frauenhäuser; die grösste
+Zahl von Frauen, welche wir in einem solchen Hause antreffen, beträgt
+fünfzehn. Indessen ist nicht zu übersehen, dass auch ausserhalb
+der Frauenhäuser die Lüderlichkeit eine Stätte fand. Nach allen
+Schilderungen muss im XV. Jahrhundert die Prostitution in den deutschen
+Städten eine furchtbare Ausdehnung gewonnen haben. Der zu gewissen
+Zeiten sehr starke Fremdenverkehr und die ständige Anwesenheit einer
+beträchtlichen Zahl von ehelosen Geistlichen, Handwerksgesellen und
+Kaufmannsdienern auf der einen Seite, die öffentliche Duldung des
+Unwesens in den Frauenhäusern auf der andern Seite wirkten mit der
+durch den wachsenden Reichtum geförderten Zuchtlosigkeit in den höheren
+Klassen zusammen, um eine geradezu schaudererregende Verwilderung und
+Verrohung hervorzubringen. In diesen Sumpf der Sittenlosigkeit wurde
+bald alles hineingerissen, die niederen wie die höheren Stände, die
+bürgerlichen Haushaltungen wie die Frauenklöster und Bekinenanstalten.
+
+Eine Reaktion gegen dieses Treiben konnte nicht ausbleiben. Sie ging
+von den Zünften und Gesellenverbänden aus, welche ihren Mitgliedern den
+Verkehr mit lüderlichen Dirnen seit dem Beginn des XV. Jahrhunderts
+untersagten. Weit später folgten Massregeln der öffentlichen
+Gewalt. Immer allgemeiner wurde den Dirnen, wie anderen Kategorien
+der »unehrlichen Leute«, eine besondere Tracht oder ein Abzeichen
+vorgeschrieben, damit sie von den ehrbaren Frauen geschieden und »nach
+ihrem wahren Werte angesehen« werden könnten. Man untersagte ihnen
+das Erscheinen bei Tänzen und Hochzeitsfesten; man wies ihnen in den
+Kirchen einen gesonderten Platz an; ja man schloss sie selbst nach
+ihrem Tode von dem allgemeinen Friedhof aus und liess ihre Leichen auf
+dem Schindanger verscharren. Dem XVI. Jahrhundert blieb es vorbehalten,
+zu diesen Unmenschlichkeiten noch die Strafen des Ausstellens
+am Pranger, des »Schnellens« und der öffentlichen Auspeitschung
+hinzuzufügen. Die Reformation bewirkte allerwärts, auch an katholisch
+gebliebenen Orten, die Aufhebung der Frauenhäuser, freilich nicht ohne
+gerade in diesem Punkte auf heftigen Widerstand zu stossen.
+
+Indessen würde man irren, wenn man wähnte, in jenen barbarischen
+Aechtungsmitteln des XV. Jahrhunderts habe die Weisheit des
+Mittelalters gegenüber den gefallenen Frauen ihr Ende gefunden. Die
+Kirche hatte es immer als eine wichtige Aufgabe christlicher Liebe
+bezeichnet, diese Tiefgesunkenen zu retten; das kanonische Recht
+empfahl die Ehelichung einer Gefallenen als ein Verdienst. Aber nur
+zu oft entsprachen dieser Theorie nicht die Taten des Klerus, der
+an vielen Orten den Gläubigen mit bösem Beispiele voranging. Der
+Ausdruck »Pfaffenmagd« wird im ganzen späteren Mittelalter den ärgsten
+Schimpfwörtern gleich geachtet. Ueber die sittliche Verwahrlosung,
+der manche Klöster zu Zeiten anheimgefallen waren, besitzen wir
+erschreckende Schilderungen[61].
+
+Aber die Kirche hat doch früh auf diesem Gebiete auch +positive
+Reformarbeit+ geleistet. Schon im Anfang des XIII. Jahrhunderts
+hatte ein Priester Rudolf in den rheinischen Städten den verlorenen
+Frauen seinen Bekehrungseifer zugewendet[62]. »Herr, wir sind arm und
+schwach«, war ihm einmal von solchen geantwortet worden; »wir können
+uns auf keine andere Weise ernähren; gebt uns Wasser und Brot, und
+wir werden euch gerne gehorchen.« In Worms und der Umgegend hatte er
+einige dieser Frauen bekehrt und in ein Haus aufgenommen; in Strassburg
+hatte er 1225 eine Klause für die Bussfertigen errichtet. Zwei Jahre
+später erhielt er ein päpstliches Breve, durch welches sämtliche von
+ihm bekehrten Frauen unter dem Namen der +Reuerinnen+ dem Orden
+der heiligen Magdalena angeschlossen wurden. Aus diesem kleinen Anfang
+ging in Strassburg das grosse Reuerinnenkloster hervor, nachdem durch
+eine Bulle Gregors IX. von 1246 die Büsserinnen der heiligen Magdalena
+in Deutschland ermächtigt worden waren, Klöster zu bauen. Solche
+Klöster der Büsserinnen, Reuerinnen oder weissen Frauen entstanden
+bald auch in andern Städten. Ihr nächster Zweck[63] war die Besserung
+der Verirrten und die Zurückführung derselben in die ehrbare weltliche
+Gesellschaft. Dies geschah durch ein unter strenger Klausur stehendes,
+sonst aber nicht allzuharten Regeln unterworfenes Leben in Gebet und
+Arbeit. Nur diejenigen, welche durch ihre Haltung bewiesen hatten, dass
+sie entschlossen seien, dauernd ein Dasein strengster Büssung und
+Kasteiung zu führen, wurden als eigentliche Klosterfrauen zur Ablegung
+des Gelübdes zugelassen und in die »Samenung zur heiligen Magdalena«
+aufgenommen.
+
+Dieses Vorgehen der Kirche fand unter den Bürgern lebhafte
+Nacheiferung. Hier und da wurden Vermächtnisse gestiftet, um
+denen, welche ein gefallenes Mädchen heirateten, eine Summe
+Geldes zu gewähren. Ausserdem wurden aus Privatmitteln zahlreiche
++Rettungshäuser+ gegründet, die nach dem Muster der Bekinenhäuser
+eingerichtet waren und von diesen oft schwer zu unterscheiden sind.
+Schon im Jahre 1302 errichtete ein Speierer Bürger eine solche Anstalt,
+in welcher öffentliche Frauen aufgenommen, genährt und gekleidet
+wurden. Noch weiter ging 1303 Heinrich von Hohenberg, ein Scholar
+zu Colmar, der in verschiedenen Städten Rettungshäuser begründete,
+in welchen je 10 bis 25 Frauen Aufnahme, Ernährung und Bekleidung
+erhielten. Die Mittel brachte er durch Sammlung milder Beiträge auf.
+Auch in Strassburg stiftete er einen Bussschwesternverein, welchen der
+Bischof Johann von Dirpheim am 8. Oktober 1309 bestätigte. »Sklaven«,
+sagte er, »erlangen, wenn sie der Freiheit wiedergegeben werden,
+alle Rechte freier Männer; es wäre daher unbillig, wenn Frauen, die
+Sklavinnen der Sünde gewesen, nicht ähnlich behandelt würden, sobald
+sie sich zu einem besseren Lebenswandel bekehren.« Der Bischof nahm
+sie deshalb in seinen besonderen Schutz und erklärte sie von allem
+Makel frei; ihres früheren Standes sollte nie mehr gedacht werden. Die
+Bussschwestern oder bekehrten Frauen, wie Heinrich von Hohenberg sie
+selbst nannte, trugen Röcke und Mäntel von Sackleinwand, daher sie
+auch den Namen Sack-Bekinen erhielten. Die Gunst der Bürger wandte
+sich ihrer wohltätigen Anstalt in reichem Masse zu; indessen wurde sie
+schon 1315 infolge einer Pest zu einem Spital umgewandelt, in das die
+Schwestern als Pflegerinnen und Pfründnerinnen aufgenommen wurden.
+
+Eine ähnliche Anstalt schufen 1384 drei Bürger von Wien. Ratsherren
+waren die Vorsteher ihres Hauses und eine der Schwestern die Meisterin
+der übrigen. Der damalige Landesherzog gewährte nicht allein dem Hause
+Steuerfreiheit, sondern er verordnete auch, dass jeder, welcher eine
+der Insassinnen zum Weibe nehme, an seiner Ehre und seinen Zunftrechten
+keinen Eintrag erleiden dürfe. Schmähungen oder Kränkungen jener
+bussfertigen Frauen sollten strenge bestraft, aber auch diejenigen von
+ihnen, welche in ihr früheres Leben zurückfielen, ertränkt werden. Die
+Anstalt wurde sowohl aus der Stadtkasse als auch durch Vermächtnisse
+von Bürgern und Bürgerinnen bedeutend vergrössert und bestand in
+segensreichem Wirken bis zur Mitte des XVI. Jahrhunderts.
+
+Ueber Italien und Frankreich hatten sich diese Anstalten teilweise
+schon früher ausgebreitet. Nicht überall bewährten sie sich. Nicht
+wenige erlagen der allgemeinen Sittenverderbnis des XV. Jahrhunderts,
+ja manche boten gerade dem Uebel einen Schlupfwinkel, das sie bekämpfen
+wollten.
+
+Eine eigentümliche Beleuchtung des mittelalterlichen Frauenelends
+bieten die Statuten des 1497 gestifteten Hauses der Pariser Büsserinnen
+(filles pénitentes), welche der Bischof Simon von Champigny selbst
+aufgesetzt hatte. Nach diesen sollten nur solche Mädchen aufgenommen
+werden, die unter 30 Jahren alt wären und nachweisbar eine Zeit lang
+ein lüderliches Leben geführt hätten. »Um zu verhüten, dass junge
+Personen deswegen lüderlich werden, damit sie hernach hier eine Stelle
+bekommen, so sollen die, welche schon einmal abgewiesen sind, davon
+auf immer ausgeschlossen sein. Ueberdies sollen diejenigen, welche um
+die Aufnahme angehalten haben, in die Hände ihres Beichtvaters einen
+Eid ablegen, dass sie nicht selig werden wollen, wenn sie aus der
+Absicht lüderlich geworden wären, um mit der Zeit in diese Gesellschaft
+aufgenommen zu werden, und man soll ihnen sagen, dass, wenn man
+erfahren würde, sie hätten sich aus diesem Grunde verführen lassen, sie
+von dem Augenblicke an dieses Kloster meiden müssten, wären sie gleich
+schon eingekleidet und hätten ihre Gelübde getan.« Der Missbrauch,
+welchem durch diese Bestimmungen vorgebeugt werden sollte, muss nicht
+selten gewesen sein. In Deutschland liess man nach dieser Richtung
+Milde walten; ja viele Reuerinnenklöster gingen bald dazu über, auch
+unbescholtene Mädchen aufzunehmen. Es unterliegt keinem Zweifel,
+dass sie auf diesem Wege manche von dem Beginn eines schlechten
+Lebenswandels abhielten, dessen Entstehungsursache ja hauptsächlich die
+Verlassenheit und das Elend war.
+
+       *       *       *       *       *
+
+Nach diesen Darlegungen wird es keinem Zweifel mehr unterliegen können:
+auch das Mittelalter hat seine +Frauenfrage+ gehabt; es hat sie auch
+zu +lösen+ versucht. Und diese mittelalterliche Frauenfrage war weit
+schwieriger; sie umfasste viel breitere Schichten der Bevölkerung als
+das, was heute unter jenem Schlagworte meist verstanden wird. Wie
+unbedeutend, wie winzig müssen uns neben dem Massenelend unter den
+Frauen des Mittelalters die Schmerzen erscheinen, denen die moderne
+Frauenbewegung Heilung bringen will!
+
+Und doch, wenn wir +unsere+ Verhältnisse mit denen des Mittelalters
+vergleichen, +unsere+ Hilfsmittel mit denen jener rauhen, an Behagen
+so armen Zeit -- haben wir dann gegründete Ursache, uns zu überheben?
+Ist das Dasein unserer Fabrikarbeiterinnen und Handlungsgehilfinnen
+etwa freundlicher gestaltet als das Los der Meistersfrauen und Töchter,
+die ihren Gatten und Vätern im Gewerbe halfen, ja selbst als das der
+Spinnmägde und Kämmerinnen, deren Arbeitsverhältnis durch Sitte und
+Gesetz geregelt wurde? Haben wir Anstalten, welche an Reinheit und
+Klarheit der Ziele sich mit den Bekinenstiftungen, den Samenungen,
+den Häusern der Bussschwestern und Reuerinnen vergleichen liessen? Ist
+die Stellung der Gesellschaft zu den »fahrenden Frauen« eine würdigere
+geworden?
+
+Gewiss hat das Mittelalter seine Frauenfrage nicht endgültig gelöst.
+Es hat sie nicht endgültig lösen +können+, weil es die Quellen nicht
+zu verstopfen vermochte, aus denen das Uebel sich in fortwährender
+Wiederkehr erneuerte. Aber die Anstalten, welche es geschaffen hat,
+genügten doch Jahrhunderte lang dem Bedürfnisse der Zeit, von der
+man mit Unrecht mehr verlangen würde, als ihre Mittel erlaubten[64].
+Absolute Lösungen für soziale Fragen sucht man nur im Lande Utopia.
+Wir Menschen der wirklichen Welt müssen zufrieden sein, wenn das, was
+wir schaffen, auch nur einer oder wenigen Generationen genügt. Mögen
+die Nachkommenden es mitleidlos einreissen, sobald sie Besseres an die
+Stelle setzen können!
+
+Die Reformation des XVI. Jahrhunderts hat die entarteten
+Frauenversorgungsanstalten des Mittelalters gewiss mit demselben
+Rechte beseitigt wie die Stätten der sündigen Lust. Aber sie ist
+hier revolutionär, nicht reformierend zu Werke gegangen; sie hat
+zunächst nichts Positives an die Stelle des Eingerissenen zu setzen
+vermocht, ausser einer Theorie, wenn man will, einem +Ideal+, dessen
+Verwirklichung erst im Laufe der Jahrhunderte erfolgen konnte. Um dies
+zu verstehen, muss man nicht vergessen, dass die Reformation das Weib
+in einer sittlichen Erniedrigung und Entwürdigung vorfand, wie sie
+brutaler kaum gedacht werden kann. Ihre erste Aufgabe musste darin
+bestehen, die Ehe wieder zu heiligen. Damit veränderte sich auf einen
+Schlag die ganze Stellung der Frau in der Gesellschaft. An die Stelle
+des Frauenideals der Ritterromantik, welches die Körperschönheit der
+Geliebten in den Vordergrund stellte, trat ein neues Frauenideal,
+welches auf die Seelenreinheit und die sittlichen Eigenschaften der
+deutschen Hausfrau und Hausmutter das Schwergewicht legte.
+
+Gewiss waren es altjüdische Gedanken[65], denen Luther in seinem »Lob
+eines frommen Weibes« in freier Uebertragung Ausdruck verliehen hat:
+»Ein fromm gottesfürchtig Weib ist ein seltsam Gut, viel edler und
+köstlicher denn eine Perle. Der Mann verlässt sich auf sie und vertraut
+ihr alles. Sie erfreuet den Mann und machet ihn fröhlich, betrübet ihn
+nicht, tut ihm Liebes und kein Leides sein Lebenlang. Geht mit Flachs
+und Wolle um, schafft gern mit ihren Händen, zeuget ins Haus und ist
+wie eines Kaufmanns Schiff, das aus fernen Ländern viel Ware und Gut
+bringt. Frühe stehet sie auf, speiset ihr Gesinde und gibt den Mägden,
+was ihnen gebühret. Wartet und versorget mit Freuden, was ihr zusteht.
+Was sie nicht angeht, lässt sie unterwegen. Sie gürtet ihre Lenden
+fest und streckt ihre Arme, ist rüstig im Hause. Sie merkt, was frommt
+und verhütet Schaden. Ihre Leuchte verlischt nicht des Nachts. Sie
+streckt ihre Hand nach dem Rocken und ihre Finger fassen die Spindel;
+sie arbeitet gerne und fleissig. Sie breitet ihre Hände aus über die
+Armen und Dürftigen, gibt und hilfet gern. Ihr Schmuck ist Reinlichkeit
+und Fleiss. Sie tut ihren Mund auf mit Weisheit, auf ihrer Zunge ist
+holdselige Lehre; sie zieht ihre Kinder fein zu Gottes Wort. Ihr Mann
+lobet sie, ihre Söhne kommen auf und preisen sie selig.«
+
+Aber diese Gedanken sind seit der Reformation in das deutsche
+Volksbewusstsein übergegangen, und sie beherrschen noch heute die
+Auffassung von der Ehe und der sozialen Stellung des Weibes in breiten
+Schichten der Bevölkerung. Nicht von oben herab, bei den Spitzen
+der Gesellschaft hat sich die Umwandlung zuerst vollzogen, sondern
+von unten herauf, aus dem deutschen Bürgerstande heraus, ist die
+Festigung und Kräftigung der Stellung der Frau in der Familie erfolgt.
+Während die vornehme Gemeinheit der französischen Galanterie das
+Hofleben und die adeligen Kreise des XVII. und XVIII. Jahrhunderts
+beherrschte, streifte die bürgerliche Familie allmählich die aus dem
+Mittelalter überkommenen Anschauungen ab und wies der Frau jene hohe
+sittigende Stellung an, welche die Dichter unserer klassischen Periode
+verherrlicht haben. Die anscheinend so engherzige Ausschliessung des
+weiblichen Geschlechtes vom Erwerbsleben, welche sich in dieser Zeit
+vollzog, musste mit zu diesem Ziele helfen. Dass sie sich aber ohne
+stärkeres Widerstreben der Gesellschaft und der öffentlichen Gewalt
+vollziehen +konnte+, scheint als Beweis dafür angesehen werden zu
+müssen, dass die eingetretenen friedlichern Zeiten eine Ausgleichung
+des im Mittelalter so bedeutenden Zahlenunterschiedes der Geschlechter
+mehr und mehr herbeigeführt hatten. Die für so hart und engherzig
+geltenden Zunftartikel, welche den in Unehe Erzeugten den Zutritt
+zum Handwerk versagten, und die Beschäftigung weiblicher Personen
+ausschlossen, wären dann, nach dieser Richtung wenigstens, nur Ausdruck
+der allgemeinen Entwicklung der Gesellschaft.
+
+Denn das muss vor allem festgehalten werden: durch die ganze
+Geschichte, und namentlich durch die Geschichte unseres Volkes geht
+ein mächtiger Zug, der darauf hinführte, die Frau mehr und mehr
+von der schweren, aufreibenden Mühsal des Erwerbs zu entlasten und
+diese auf die stärkeren Schultern des Mannes zu laden, dem Manne die
+schaffende, die werbende Arbeit der Gütererzeugung, der Frau die
+verwaltende und erhaltende Tätigkeit in der Hauswirtschaft, dem Manne
+den waglichen Kampf ums Dasein, der Frau die behagliche Gestaltung
+desselben zuzuweisen. Diesen Zug der Entwicklung nach Möglichkeit zu
+fördern, erschien den letztvergangenen Jahrhunderten als die Aufgabe
+einer gesunden, historisch aufbauenden Sozialpolitik. Als Gehilfin
+des Mannes im Rahmen der Familie mochte die Frau zum eigenen und
+allgemeinen Besten auch in der eigentlichen Erwerbswirtschaft tätig
+sein, nimmermehr jedoch als Konkurrentin des Mannes ausserhalb dieses
+Rahmens[66].
+
+Diese Entwicklung, die von der Urperiode unseres Volkes bis auf die
+neueste Zeit herab sich mächtig wirksam erwiesen hat und der wir
+unsere heutige Familienverfassung und unser in der Sitte begründetes
+Ideal der Ehe verdanken, hat im letzten Jahrhundert einen Rückschlag
+erlitten durch den gewerblichen Grossbetrieb mit seiner massenhaften
+Frauenarbeit. Von den Fabriken hat letztere immer mehr auf den Handel
+sich ausgedehnt und greift schon mächtig auf andere Berufsgebiete
+über. Sie macht die Frau vom Erwerbe des Mannes mehr oder minder
+unabhängig; aber sie macht sie nicht ökonomisch selbständig wie einst
+im Mittelalter. Vielmehr bedingt sie in der Regel Abhängigkeit von
+einem Unternehmer. Darin besteht ihre Gefahr. Ihre Folgen liegen klar
+zutage: Entwürdigung des weiblichen Geschlechts, Erschwerung der
+Familiengründung für die mit billiger Frauenarbeit konkurrierenden
+Männer, Auflösung der häuslichen Bande, Verkümmerung und Verwilderung
+der heranwachsenden Jugend. In vielen Arbeiterhaushalten ist die auf
+der Ehe und väterlichen Gewalt beruhende Familie verlassen und an
+ihre Stelle ein auf allerlei Vertragsverhältnissen beruhendes Gebilde
+getreten[67].
+
+Sollen wir -- das ist das verzweifelte Doppelproblem, welches uns
+die moderne Frauenerwerbsfrage stellt -- im Widerspruche mit der
+gesamten Kulturentwicklung das System der »billigen Hände« auf immer
+weitere Berufsarten ausdehnen, sollen wir damit auch in diesen
+Kreisen die Erschwerung der Familiengründung, die Auflösung der
+Gesellschaft in ihre Atome immer allgemeiner machen? Soll die Ehe als
+dauernde Lebensgemeinschaft temporären, jeder Willkür preisgegebenen
+Verbindungen weichen? Und soll das Vertragsprinzip, auf dem die
+Unternehmung beruht, allgemein auch für die Familie massgebend werden?
+Oder sollen wir nicht vielmehr mit allen Kräften darnach streben, dass
+allen Klassen der Bevölkerung der Friede und das Behagen des häuslichen
+Herdes gesichert, dass der Familiensinn gestärkt und dass der Frau
+dasjenige Gebiet erhalten werde, auf dem sie sich am glücklichsten
+fühlt und auf welchem sie Werte schafft, die für die Nation kostbarer
+sind als eine noch so grosse Steigerung der Produktion durch »billige
+Hände«? Sollten nicht die Frauen selbst dieses ihr eigenstes Gebiet mit
+allen ihnen zu Gebote stehenden Mitteln festhalten und mit den Männern
+dahin arbeiten, dass die gewiss nicht unvermeidbaren Ursachen beseitigt
+werden, welche in der modernen Gesellschaft so viele Männer an der
+Eheschliessung und so viele Frauen an der Erfüllung ihres natürlichen
+Berufes hindern?
+
+Es ist bekannt, für welchen Teil dieser Alternative sich die moderne
+Frauenbewegung und ihre Freunde entschieden haben. Sie wollen
+völlige soziale und rechtliche Gleichstellung und auf der Grundlage
+selbsteigenen Erwerbes von Mann und Weib eine Neuordnung der
+geschlechtlichen Beziehungen. Ihnen sei zum Schluss noch Folgendes zu
+bedenken gegeben.
+
+Am 12. Juni 1907 wurden im Deutschen Reiche 9½ Millionen erwerbstätige
+Frauen gezählt[68]. Dies bedeutet ziemlich genau ein Drittel aller
+erwerbstätigen Personen oder die Hälfte der Frauen im Alter zwischen
+dem 15. und dem 70. Lebensjahre. Von 1895 bis 1907 hat sich die Zahl
+der erwerbstätigen männlichen Personen um 20%, die der weiblichen aber
+um 44% vermehrt. Die Zunahme erstreckt sich auf alle Berufsgruppen,
+trifft aber die selbständig und die unselbständig Erwerbstätigen in
+sehr verschiedenem Masse. Die letzteren haben in allen Berufsgruppen
+am stärksten sich vermehrt, während die selbständig tätigen Frauen
+in der Urproduktion und in der Industrie eine Abnahme und nur im
+Handel ebenfalls eine Zunahme aufweisen. Zu gleicher Zeit hat die Zahl
+der weiblichen Dienstboten bei einer Volksvermehrung von 19% trotz
+wachsenden Wohlstandes sich um reichlich 5% vermindert, und die Zahl
+der berufslosen Angehörigen ist in ihrer Vermehrung hinter der Zunahme
+der Gesamtbevölkerung zurückgeblieben.
+
+Diese Zahlenverschiebungen werfen ein scharfes Schlaglicht auf
+die tatsächlichen Voraussetzungen, unter denen die Frauenfrage
+der Gegenwart steht. Nicht dass 1907 fast drei Millionen Frauen
+mehr im Erwerb tätig waren als 1895 ist das bedeutsame, sondern
+dass die Verkümmerung der Familienhaushaltung immer weniger Raum
+für Frauenarbeit lässt und dass von den 9½ Millionen einen Beruf
+ausübender weiblicher Personen mehr als 8 Millionen in abhängiger
+Erwerbsstellung sich befanden. Nicht bloss in der Produktion sondern
+auch im Handel, den persönlichen Diensten und selbst den liberalen
+Berufen vollzieht sich das Eindringen der Frauen in +dieser+ Weise.
+
+Darin liegt die ungeheure Schwierigkeit, darin der grosse Unterschied
+zwischen der modernen Frauenfrage und derjenigen des Mittelalters.
+Damals war sie eine Versorgungsfrage, heute ist sie Emanzipationsfrage.
+Die ökonomische Entwicklung drängt von selbst auf eine rechtliche
+Neuordnung, und auch die »Emanzipation vom Manne« mag sich in ihrem
+Gefolge vielleicht durchsetzen lassen, soweit die Natur sie erlaubt.
+Hinter ihr lauert aber ein neues, weit schwierigeres Problem: die
+Emanzipation von der ökonomischen und sozialen Abhängigkeit, der
+das Weib im Erwerbsleben immer mehr anheimfällt und mit jedem neuen
+Erwerbsgebiete, das es erobert, mehr anheimfallen muss. Nach einem
+Zeitalter des individuellen »Auslebens« von Weib und Mann sieht die
+Zukunft wahrlich nicht aus. Die Fortsetzung der jüngsten Entwicklung
+bedroht uns im Gegenteil mit einem Zustand, bei dem beide Geschlechter
+gleichmässig in das Joch der Unternehmung eingespannt sind. In dem
+Masse aber, als in dieser Arbeitsteilung uns technische Fortschritte
+weiteren Raum für Frauenarbeit schaffen, wird zwischen dieser und der
+Männerarbeit der Kampf heftiger werden, und schliesslich wird die
+billigere Frauenhand den Sieg davon tragen. Die Folge kann nur eine
+Umkehr des seitherigen Verhältnisses der Geschlechter in der Wirtschaft
+sein: erwerbende Frauen -- haushaltende Männer, wenn man sich nicht
+lieber vorstellen will, dass auch der Haushalt in seinen wichtigsten
+Bestandteilen zum Gegenstande kapitalistischer Unternehmung geworden
+sein wird[69].
+
+Sollte das wirklich das Endziel der Entwicklung unserer Kulturvölker
+sein, dass der Frau die Last der Produktion wieder aufgeladen würde,
+die ihr eine Entwicklung von zwei Jahrtausenden Stück für Stück
+abgenommen hat? Rückkehr zur Barbarei, Auflösung der Familienordnung,
+wie sie seit der Reformation sich gestaltet hat, Zersetzung des
+Haushalts, in welchem die Frau herrscht und Eingliederung derselben in
+eine Erwerbsordnung, in der sie nur als dienendes Glied Raum finden
+kann[70]: es wird schwer, an die Möglichkeit solchen Widersinns zu
+glauben, schwer, eine Kultur als solche zu verstehen, die eines ihrer
+kostbarsten Kleinode der Vernichtung preisgibt.
+
+
+
+
+Anmerkungen.
+
+
+[1] Vgl. meine »Bevölkerung von Frankfurt a. M. im XIV. und XV.
+Jahrhundert« I, S. 40 ff. 61 ff. »Die Entstehung der Volkswirtschaft«
+(7. Aufl.), S. 392 f. -- Möglicherweise lassen sich auf Grund der
+Dresdener Steuerlisten aus dem XV. Jahrhundert für diese Stadt ähnliche
+Ermittelungen anstellen. Vgl. +O. Richter+ im N. Archiv für sächs.
+Gesch. u. Altertumsk. II., S. 274 ff., insbes. S. 279, Anm. 10.
+
+[2] Nach diesen Ermittlungen, welche auf Grund der im Original
+erhaltenen Erhebungslisten ausgeführt sind, kommen
+
+    im Jahre  auf Steuerpflichtige  Frauen     Frauen in Prozent
+              insgesamt             überhaupt  der Steuerpflichtigen
+
+    1354        2669                   481      18,0
+    1359        3164                   589      18,6
+    1365        3021                   615      20,3
+    1370        2697                   484      18,0
+    1375        3004                   616      20,5
+    1380        3055                   509      16,6
+    1385        3391                   824      24,3
+    1389        3165                   742      23,4
+    1394        2600                   539      20,7
+    1399        2652                   614      23,1
+    1406        2383                   500      20,9
+    1410        2456                   568      23,1
+    1420        2345                   551      23,5
+    1428        2411                   466      19,3
+    1463        2560                   638      24,9
+    1475        2782                   733      26,3
+    1484        2483                   705      28,4
+    1495        2579                   715      27,7
+    1510        2328                   640      27,5
+
+[3] Solche Pestjahre waren in dem oben angegebenen Zeitraum 1356/7,
+1364/5, 1395/6, 1402, 1412, 1418-1420, 1461 und 1463; in das Jahr 1387
+fällt die Cronberger Schlacht. Man vergleiche damit die entsprechenden
+Ziffern in obiger Tabelle.
+
+[4] Vgl. meine Bevölkerung von Frkf. I, S. 507 ff.
+
+[5] +J. Hartwig+, Die Frauenfrage im mittelalterlichen Lübeck:
+Hansische Geschichtsblätter XXXV, S. 39 ff.
+
+[6] +Hartwig+ a. a. O. S. 57 ff.
+
+[7] +Schanz+, Zur Gesch. der deutschen Gesellenverbände, S. 5. +Stahl+,
+das deutsche Handwerk, S. 274.
+
+[8] Vgl. +Maurer+, Gesch. der Fronhöfe, I. 115. 135. 241 ff. II.
+387 ff. III. 325.
+
+[9] _Tyro. Prudentiae juris opificiariae praecursorum emissarius._ Der
+Lehrjunge. Jena 1717, S. 35 ff. -- Ueber das Folgende vgl. +Stahl+,
+das deutsche Handwerk, S. 42 ff. +Neuburg+, Zunftgerichtsbarkeit und
+Zunftverfassung, S. 49 ff.
+
+[10] Vgl. +Weinhold+ a. a. O., I. S. 191. +Schmoller+, Die Strassburger
+Tucher- und Weberzunft, S. 359 ff., 521. -- +Mone+, Zeitschr. f. Gesch.
+des Oberrheins, IX. S. 133 ff., 173 ff.; XV., S. 165.
+
+[11] Abgedruckt im Archiv f. Frankf. Gesch. III F. VI, S. 94 ff. --
+Aehnliche Vorschriften in +Goch+: Annalen des histor. Ver. für den
+Niederrhein, Heft VI., S. 45. 78. -- Noch 1620 gibt der Amtmann in
+Leerort den Weberknechten und Webermägden, »deren ein ziemlicher Anteil
+dort vorhanden« (auch Lehrknechte und Lehrmägde werden erwähnt), ein
+Kranken- und Sterbekassenstatut: Zeitschr. f. d. Kulturgeschichte,
+N. F., III. (1874), S. 128. -- Ueber +München+ vgl. +Sutner+ in den
+Histor. Abh. der k. bayer. Akademie d. W. II., S. 493.
+
+[12] Vgl. +Stahl+ a. a. O., S. 80.
+
+[13] In Frankfurt zahlte eine Frau, die das Handwerk treiben wollte, 30
+Schilling und ein halb Viertel Wein und hatte dann Zunftrecht, ein Mann
+3 Pfund und ein Viertel Wein. Schneiderordnung im II. Handwerkerbuch.
++Stahl+ a. a. O. hat Unrecht, wenn er meint, an die Frau seien
+dieselben Anforderungen gestellt worden wie an einen Mann. Ueber Mainz:
++Stahl+, S. 83.
+
+[14] Im Augsburger Stadtrecht von 1276 heisst es Art. 129 (S. 215 bei
++Meyer+): _Swaer siniu chint ze antuaerken lat dur lerunge, ez si sun
+oder +tohter+, swaz lons man davon geheizzet, kumt daz ze clage, daz
+sol ein burggrafe rihten darnach als die schulde geschaffen ist._
+Dieselbe Formel noch in der Nürnberger Reformation von 1564 und im
+Stadtrecht von Mühlhausen i. Th.: +Stahl+, S. 47. Aehnlich in England:
++Stahl+, S. 49. Ueber das ausgedehnte Arbeitsrecht der Frauen in den
+Pariser Gewerben vgl. _Boileau_, _Livre des métiers_ und +Stahl+, S.
+53-71.
+
+[15] +Stahl+ a. a. O., S. 90 ff.
+
+[16] +Westenrieder+, Beiträge zur vaterl. Gesch. etc. VI, S. 153. Vgl.
+indessen das Stadtrecht von München, herausg. v. Auer, Art. 45: _Ain
+frau, deu ze marcht stat und deu chauft und verchauft etc._
+
+[17] Vgl. +Jäger+, Ulms Verfassung, bürgerliches und kommerzielles
+Leben, S. 685. Dagegen sind die Viktualienhändler (Merzler) in Ulm,
+die Hucker in Augsburg (Stadtr. S. 201), die Käufler in München
+(Stadtrecht, Art. 440 f.) durchweg Männer. In Augsburg werden neben
+den _keufel_ auch _verkauferinne_ erwähnt (Stadtr. S. 271 ff.), in
+Danzig neben den _hoker_ auch _hokinnen_ (Hirsch, Danzigs Handels-
+und Gewerbegesch., S. 316). Nach zahlreichen Beobachtungen, die ich
+in dieser Hinsicht angestellt habe, ist überall im Mittelalter die
+Höckerei ein vorwiegend männliches Gewerbe.
+
+[18] Im Folgenden gebe ich das Verzeichnis sämtlicher in Frankfurter
+Akten und Urkunden bis zum Jahre 1500 vorkommenden weiblichen
+Berufsnamen. Dieselben sind einer seit vielen Jahren von mir angelegten
+Sammlung der Berufsbezeichnungen entnommen, die hauptsächlich auf
+fortlaufend über die Bevölkerung geführte Akten (Steuerlisten,
+Bürgerverzeichnisse, Bürgerbücher u. dergl.) zurückgeht und nicht bloss
+das Vorkommen eines Berufs, sondern auch die Zahl der Berufsangehörigen
+festzustellen versucht. Sie wird demnächst in den Abhandlungen
+der Kgl. sächs. Gesellschaft der Wissenschaften veröffentlicht
+werden. Bei den nachstehenden Listen sind vier leicht verständliche
+Kategorien weiblicher Berufsarbeiter unterschieden; zwischen den
+drei letztgenannten sind natürlich die Unterschiede fliessend. Denn
+obwohl wenig Berufstätige des XIV. und XV. Jahrhunderts mir bei meinen
+Sammlungen entgangen sein werden, so liegt es doch schon in der Natur
+des Quellenmaterials, dass die Männer vollständiger erfasst werden
+mussten. Weibliche Berufsnamen, die sich auf Ehefrauen und Witwen
+männlicher berufstätiger Personen beziehen (z. B. beckern, bendern,
+smiden) mussten natürlich ausgeschlossen bleiben, da das Verzeichnis
+nur Fälle selbständiger oder abhängiger weiblicher Berufstätigkeit
+enthalten sollte, nicht aber den Fortbetrieb eines Handwerks
+durch sie oder blosse Hilfeleistung beim Gewerbe des Mannes durch
+dessen weibliche Familienglieder. Natürlich ist bei einer solchen
+Aussonderungsarbeit manches dem Gefühl des Bearbeiters anheimgegeben;
+aber ich glaube keinen Beruf in die Listen aufgenommen zu haben, der
+nicht im Mittelalter nachweisbar von Frauen betrieben worden ist.
+Mehrfach kommen verschiedene Namen für dasselbe Gewerbe vor. Dass die
+weibliche Namensform auch bei solchen Gewerben angegeben ist, die
+vorzugsweise von Männern betrieben wurden, wird keiner Rechtfertigung
+bedürfen.
+
+
+I. +Berufe, für die nur weibliche Namen vorkommen.+
+
+    Altartuchmacherin
+    amme
+    bortenmechern
+    bendelern
+    besenmechern
+    besendregern
+    bettebereidern
+    bettemachern
+    bettfegern
+    brustleddern
+    drollern
+    federmechern
+    filzern
+    fronegertern
+    garnfrauwe
+    gilerhaltern
+    goltspinnern
+    harmedern
+    hebeamme
+    hemdenmechern
+    hosenstrickern
+    hudeferbern
+    hudelferbern
+    hudelstrickern
+    hullenmechern
+    hullenweschern
+    hulleryhern
+    huwenweschern
+    kindeschuwern
+    kleiderhocke
+    kleidermeit (in einer Badstube)
+    klunkenersen
+    knaufelern, knaufelmechern
+    lerfrouwe
+    lichthocke
+    lichtmechern
+    linennewersen
+    lutterdrengkern
+    magit, meit, dinstmeit
+    melmengern, melefeilern
+    messemeit
+    nedersen
+    noppersen
+    pelzmechern
+    radspinnersen
+    reubelern
+    rinkengießern
+    rufelern
+    salzmengern
+    samenfrau
+    schonebeckern
+    sleierweschern
+    spinnersen
+    sterkern
+    strelemagit
+    wachern
+    wirkersen
+    wollenbeslagern
+    wollenbesnidern
+    wollenlesersen
+    wurzfrauwe
+    ziedelmachern
+    zimpelern
+    zirkelern
+    zwirnmechern
+
+
+II. +Berufe die vorzugsweise von Frauen ausgeübt wurden.+
+
+    appelmengern
+    boppenmalern
+    bierbruwern
+    daubeckern
+    eiermengern
+    essigmengern
+    ganshirten
+    gufenern
+    gulichtern
+    hafermengern
+    heringmengern
+    hullenkouffern
+    hullenwobern
+    kemmersen
+    krudern
+    mattenmechern
+    snormechern
+
+
+III. +Berufe, in denen Männer und Frauen gleich häufig vorkommen.+
+
+    altgewendern
+    boternhocke
+    bademeit
+    fiedelern
+    vigenhocke
+    fladenbeckern
+    hocke, hockin
+    horneffen
+    hunermengern
+    hunerkeufern
+    kelnern
+    kerzenmechern
+    kesemengern
+    kindelerern
+    klingenern
+    lenegadern
+    lerern
+    lutenslehern
+    mentelern
+    milchern
+    notschern
+    obessern, obsern
+    obismengern, obshockern
+    oleiern
+    oleihocke
+    rubingrebern
+    salzfrauwe
+    schappelmechern
+    scheppelern
+    selzern
+    senfmengern, senffrauwe
+    sleiermengern, sleierfrauwe
+    smersnidern
+    spitzenmecherin
+    spulersen
+    stobenheissern
+    strickern
+    wennern
+
+
+IV. +Berufe, in denen Frauen seltener vorkommen als Männer.+
+
+    abenturern
+    augenerzten
+    briefdragern
+    briefdruckern
+    budelern
+    burstenmechern
+    deckelechern
+    deschenmechern
+    torwechtern
+    duchscherern
+    duchspulern
+    erzten
+    essigfrauwe
+    federmengern
+    fehehirten
+    flechtenmechern
+    vorkeuffern
+    fuderern
+    gadenfrouwe
+    gengelern
+    geukelern
+    gewendern
+    haumengern
+    hentschumechern
+    hirten
+    hudekouffern
+    hudemechern
+    huderuppern
+    klaibersen
+    kochin
+    kolschebeckern
+    copeyern
+    korbern
+    kremern, kremersen
+    kursenern
+    lantfarern
+    lebekuchersen
+    ledersmerern
+    leistmechern
+    leufern
+    linwedern
+    malern
+    menkelern
+    melbern, milwern
+    mottersen
+    naldenern, nadlern
+    paternosterern
+    piffern
+    portenern
+    pulern
+    rosindragern
+    rußen, leppern
+    schekelern
+    schellendregern
+    scherensliffern
+    scherern, bartscherern
+    schiffrauwe
+    schornsteinfegern
+    schulmeistern
+    schusselern
+    seifenmechern
+    senfmechern
+    sidenstickern
+    simelern
+    slaghudern
+    snidern
+    snitzern
+    sporleddern
+    stazionerern
+    suhirten, suern
+    ulnern
+    underkeufern
+    wechtern
+    welkern
+    weschersen
+    wesselern
+    wollenslegern
+    wurzelern
+    wurzemengern
+    ziechenern
+    zehenern
+    zolnerin
+
+Dass das vorstehende Verzeichnis vollständig sei, ist kaum
+anzunehmen. Nicht immer findet sich für eine Beschäftigung auch eine
+Berufsbezeichnung. Es treten dann wohl Umschreibungen auf. So findet
+sich in den Bedebüchern der Niederstadt von 1405 und 1406 Bl. 17 a,
+bez. 31 b: _Else mit den hunden_; sie wohnt in der Dieterichsgasse,
+wo allerlei armes Volk hauste, gab also wohl mit abgerichteten Hunden
+Vorstellungen. -- 1372 Bdb. der Oberstadt 12 a: _Else Leuben in dem
+kellerchen, die da kolen veyle hat_, also eine Kohlenhändlerin. -- 1359
+Bdb. Oberst. 20 b: _Katherine, dye daz crute hudet_; Bedeutung unklar.
+-- 1399 Bdb. Niederst. 14 a: _Kedder, die die swebelkirzen dreit_, also
+einer Verfertigerin oder Verkäuferin einer bestimmten Art von Kerzen.
+-- 1424 Bdb. Oberst. 19 b: _ein arm frauwe, dye der gefangen torin
+wartit umb gottis willen_, also eine Wärterin bei einer Geisteskranken.
+-- 1397 Heiligenbuch 32 a: _eyne kolsche frauwe, die scheren feile hat
+vor dem Schrothuse_; 1472 im Marktrechtbuch 5 b: _die frauwe mit dem
+Colneschen zynwerg_ (beide als Verkäuferinnen auf der Messe). Dazu
+kommt eine Reihe unerklärbarer, aber auf Berufstätigkeit hinweisender
+Benennungen weiblicher Personen (z. B. _weibelern_, _ulselmechern_,
+_setzependin_, _muselern_).
+
+[19] Vgl. auch +Gengler+, Stadtrechts-Altertümer, S. 36.
+
+[20] +Kriegk+, Frankfurter Bürgerzwiste und Zustände im Mittelalter, S.
+334 f. Eine Wechslerin und eine Pächterin der Stadtwage auch in Lübeck:
++Hartwig+ a. a. O. S. 51 f.
+
+[21] Vgl. das Verzeichnis der Frankfurter Aerzte bei +Kriegk+,
+Deutsches Bürgert., S. 34 ff. Eine Münchener Augenärztin aus der ersten
+Hälfte des XIV. Jahrhunderts: Monum. Boic. XXXV., 2, 94. +Weinhold+,
+Deutsche Frauen, I., S. 170 ff. Aehnliches in Lübeck: +Hartwig+
+a. a. O. S. 52 f.
+
+[22] Aus den Ausgaberegistern der Bürgermeister (»Botenbüchern«) habe
+ich mir folgende Fälle notiert: 1391 Bl. 2^a: _5 grosse zweien frauwen,
+dem folke nachzulauffen, daz vor der stad was, biz gein Rockingen._ --
+1392 Bl. 7^a: _6 ß junger h. einer frauwen zu lauffen gein Dippurg,
+gein Omstat und ubiral in dem Odenwalde, zu irfarn heymelich umb
+samenunge_. -- 1414 Bl. 4^b: _4 ß alder vier frauwen in den walt und
+darumbe zu virslahen, als man sunderlich gewarnt waz_.
+
+[23] Vgl. das Gedicht Iwein, V. 6186 ff. Jäger, Ulm, S. 634. +Mone+,
+Zeitschr. IX., S. 138. XIII., S. 141 ff. Ueber Lübeck: +Hartwig+
+a. a. O. S. 63 f.
+
+[24] Gesamtabenteuer II., 23 ff. Vgl. auch +Hartwig+, S. 64 ff.
+
+[25] Vgl. +Weinhold+, a. a. O., S. 132. +Norrenberg+, Frauenarbeit und
+Arbeiterinnen-Erziehung in deutscher Vorzeit, Köln 1880, besonders S.
+59 ff.
+
+[26] Vgl. meine Bevölkerung von Frankfurt I, S. 343 f., 389.
+
+[27] +C. Schmidt+ in der Alsatia, Jahrg. 1860, S. 187 ff.
+
+[28] +Norrenberg+ a. a. O., S. 63 ff.
+
+[29] +Schmidt+ a. a. O., S. 224.
+
+[30] Ueber die Bekinen (so wird das Wort durchweg in Frankfurter
+Urkunden geschrieben, +nicht+ Beginen, Beghinen oder Beguinen) vgl.
+Ersch und Gruber, Realenzykl. u. d. W. -- Realenzyklopädie für die
+protest. Theologie (3. Aufl.), II, S. 516 ff. -- +C. Schmidt+, Alsatia
+(1858-1861), S. 149 ff. -- +Kriegk+, Deutsches Bürgertum i. Ma., S.
+100 ff. -- +Arnold+, Verfassungsgesch. der deutschen Freistädte, II, S.
+173 ff. -- +Heidemann+, Zeitschrift des bergischen Geschichtsvereins,
+IV., S. 85 ff. -- +Jäger+, Ulm, S. 407 ff. -- +Lipowski+, Urgeschichte
+von München, II., S. 247, 274. +Hartwig+ a. a. O. S. 80 ff. --
++Mosheim+, _De Beghardis et Beguinabus commentatio_ und +Hallmann+,
+Die Geschichte des Ursprungs der belgischen Beghinen, Berlin 1843,
+waren mir nicht zugänglich. -- Sehr gut ist in dem Aufsatze der
+Real-Enzyklopädie bemerkt: »In den Wirkungen der Kreuzzüge, die
+einen grossen Theil der männlichen Bevölkerung von Europa wegrafften
+und daher der Witwen und Waisen viel, die Ehen aber selten machten,
+und in dem Bedürfniss einer Freistätte für Jungfrauen gegen die
+damals fast trostlosen Gewaltthätigkeiten ritterlicher Wüstlinge
+entdeckt man die Ursachen dieses ausserordentlichen Anwachsens der
+Beguinengesellschaften durch eine Menge verlassener Frauenspersonen,
+die schon wegen Mangel an Aussteuer in den Nonnenklöstern nicht
+Aufnahme finden konnten.« -- Die Schilderung im Text basiert vorwiegend
+auf der Berücksichtigung der Frankfurter und Strassburger Verhältnisse,
+die von den niederländischen nicht unwesentlich abweichen. -- Wer an
+der Richtigkeit der im Texte vertretenen populationistischen Auffassung
+des Bekinenwesens zweifelt, der möge uns nur die Frage beantworten,
+woher es kommt, dass in Städten mit Hunderten von Bekinen die Bekarden
+immer nur in einzelnen Personen (selten mehr als 2 bis 4) vertreten
+erscheinen.
+
+[31] Nach +Hartwig+, Hans. Geschichtsblätter, XXXV, S. 94,
++Biedenfeld+, Ursprung sämtlicher Mönchs- und Klosterfrauenorden, II.,
+S. 354, und +Spangenbergs+ Adelsspiegel, S. 380 b f.
+
+[32] +Lang+, reg. b. IV., 537 (bei +Mone+, Zeitschr., XIII., S. 140).
+
+[33] Cod. dipl. Siles. VIII., p. 7.
+
+[34] Urk. in der Zeitschr. f. Gesch. des Oberrh., IX., S. 173 f.
+
+[35] +Reyscher+, Sammlung der württemb. Gesetze, XII., S. 25.
+
+[36] _Item von allen gotteshusen sal man bede geben und die darinne
+syn, sollen auch bede geben von iren gulten und guttern dartzu, obe
+sie uber zehen phunt heller hetten._ Frankf. Bedeordnung von 1475 §
+56, abgedruckt in »Kleinere Beiträge zur Geschichte«. Festschrift zum
+deutschen Historikertage. Leipzig 1894, S. 155. -- Aehnlich in Lübeck:
++Hartwig+, Schossbuch, S. 53.
+
+[37] +Schmidt+ a. a. O., S. 154.
+
+[38] +Heidemann+ a. a. O., S. 94.
+
+[39] Um eine Vorstellung von dem Tenor derartiger Hausordnungen zu
+geben, teile ich hier einen gedrängten Auszug aus den Statuten des 1394
+für 6 Bekinen gestifteten +Frankfurter Gotteshauses zur Seligenstadt+
+in möglichstem Anschluss an den Wortlaut des Originals mit: Holz,
+Kohlen und Licht sollen die Schwestern aus den Erträgnissen des
+Stiftungsvermögens kaufen, und soll das Licht nicht länger brennen als
+bis Mitternacht. Wenn aber Eine länger aufsitzt, soll sie ihr eignes
+Licht brennen. Aber Holz und Kohlen sollen die Kinder nutzen, welche
+Zeit sie wollen. -- Auch sollen die Kinder Ausbesserungen ihres Hauses,
+die über 5 Pfund Heller betragen (soviel hatte der Stifter jährlich
+dafür ausgeworfen), aus Eigenem vornehmen und den Bau in gutem Stand
+halten. Wäre es aber, dass das Haus in Jahresfrist einer Ausbesserung
+nicht bedürfte, so sollen die Kinder was übrig wäre über die 5 Pfund
+Heller Gülte unter sich teilen und für sich verwenden. -- Auch sollen
+die Kinder unter einander lieblich, gütig und einträchtig leben zu
+aller Zeit mit Worten und Werken und sollen die fünf (übrigen) der
+ältesten und ehrbarsten unter ihnen gehorsam sein in allen guten
+zeitlichen Dingen. -- Auch soll ihrer durchaus keine des Nachts
+ausser dem Hause sein ohne Erlaubnis der andern oder der Aeltesten,
+und diese sollen auch wissen, wo sie des Nachts sein wolle. -- Lebte
+nun Eine unfriedlich und wollte nicht davon ablassen, so sollen sie
+die Andern, wer sie auch wäre, mit Rat und Hilfe eines Kämmerers des
+Bartholomäusstiftes aus dem Gotteshause treiben, ohne Widerrede ihrer
+und eines Jeglichen. Auch wenn Eine täte, was ihr und den Kindern im
+Gotteshause nicht zur Ehre gereichte, so mans mit Wahrheit vorbringen
+möchte, die sollte zustund des Hauses verwiesen sein und nimmermehr
+darin wohnen. -- Auch sollen die 6 Kinder allewege aus ihnen Eine
+nehmen, die des Hauses gewaltig sei und der Kinder. Wenn auch die
+Kinder wollten und es ihnen fügte, so möchten sie sie absetzen, doch
+in redlicher Weise, und eine andere an ihre Stelle setzen binnen einem
+Monate, so oft eine abgeht. Entzweiten sie sich aber unter einander,
+auf welche Seite dann drei (Stimmen) fielen, das sollte gelten. --
+Geschähe es auch, dass jemand Hausrat in das Haus gäbe oder setzte oder
+dass solcher gegenwärtig darinnen wäre, der sollte darin bleiben, für
+den Fall, dass ein armes Kind darein käme und solchen nicht hätte, den
+sollte man ihr dann leihen zu ihrer Notdurft. -- Wäre es aber, dass
+jemand hernach dem Hause eine Gülte setzte, die sollen die Kinder unter
+sich teilen in gleicher Weise wie die andern über die fünf Pfund Geld.
+-- Wenn aber unter den Kindern Eine abginge von Tods wegen oder wie das
+sonst käme, so sollen die übrigen eine andere an deren Statt nehmen in
+Monatsfrist; würden sie aber unter sich uneins, wen dann drei unter
+ihnen nähmen, die sollte es sein. -- Statuten anderer Bekinenhäuser
+bei +Heidemann+ a. a. O., S. 91. 94. 104 ff. -- Alsatia, S. 229 ff.
+-- +Böhmer+, Urkundenbuch der Reichsstadt Frankfurt, S. 593 ff. --
+Lübecker Urk. B. VII, S. 760 ff. und +Hartwig+ a. a. O. S. 82 ff.
+
+[40] Die »Tertiarierinnen« in der Schweiz, über welche
++Mone+, Zeitschr. f. Gesch. d. Oberrh. XV., S. 164 ff. berichtet, sind
+lediglich Bekinen.
+
+[41] Zeitschr. für deutsche Kulturgeschichte, I (1856), S. 481 f.
+
+[42] Limburger Chronik, herausg. von +Rossel+, S. 56. 16 ff. 20.
+
+[43] Vgl. +Scheible+, Das Kloster, S. 916. 929 Anm. 11.
+
+[44] Limburger Chronik, S. 71.
+
+[45] Limburger Chronik, S. 65 f.
+
+[46] Vgl. im allgemeinen +Weinhold+, Die deutschen Frauen im
+Mittelalter II, S. 135-151. -- +Kriegk+, Deutsches Bürgertum, n. F., S.
+260 f. +Scheible+ a. a. O., S. 459 ff.
+
+[47] +Siebenkees+, Materialien, IV., S. 583.
+
+[48] I., 87 b III, 65. 66 bei +Scheible+ a. a. O., S. 459 ff. Ich hebe
+folgende Stellen hervor: »Derowegen ein solcher Weybel wissens soll
+haben, solche Hauffen zu regieren und zu führen, gleich wie man andre
+rechte Hauffen ordnen und führen soll. Item begiebt sich, dass ein
+Schlacht mit den Feinden geschehe, soll er seinen Tross also führen,
+dass keine Verhinderung dadurch entstehe. Auch soll er mit dem Tross
+auf einer Seiten nicht gar zu weit davon gehen oder stehen, dass der
+Feind ein Nachdenken davon habe und vermeyne, es seye wehrhaftigs Volk.
+Der Tross wird immer dem Heer nachgeführt, dass sie nicht voraus in
+das Läger kommen und alles das aufraumen, wie dann ir Gebrauch ist,
+wenn der Hauffen käme, dass keiner nichts fände, es sey Häuw, Stroh,
+Holz oder anders, was denn ein Lager erfordert«.... Weiter »streckt
+sich solch ihr Ampt dahin, dass sie getreuwlich auf ihre Herren
+warten, sie nach Notturft versehen, die gemeinen Weiber mit kochen,
+fegen, waschen, sonderlich der Kranken damit zu warten, sich dess
+nit wegern, sonst wo man zu Feldt liegt, mit Behendigkeit lauffen,
+rennen, einschenken, Fütterung, essende und trinkende Speiss zu holen,
+neben anderer Notturft, sich bescheidenlich wissen zu halten, auf der
+Reyen oder sonst nach Ordnung wissen zu stehen, gelegener Märkt sich
+gebrauchen und halten. Wo etwan der viel in einer Herberg oder Losement
+beyeinander liegen, bleiben sie selten eins; da wirt ihnen des Orts
+etwan ein verständiger Kriegsman zu einem Rumormeister gesetzt, oder
+zum Obersten zugeordnet, welcher sich denn bescheidenlich unter ihnen
+soll wissen zu halten. Wo es aber nit stat haben wöllte, so hat er ein
+Vergleicher, ist ungeferlich eines Arms lang, damit hat er Gewalt von
+ihren Herrn, so ihm zuvor übergeben, sie zu straffen. Solche Huren und
+Buben werden alsdann sonst auch ohne das darneben für wol essen und
+trinken mechtig übel geschlagen, ehe sie solches ihres Ampts recht
+gewonnen; der Guthaten sie wenig geniessen, welche ihnen dann zuvor
+versprochen; man muss aber dem Thuch also thun, es verleuret sonst die
+Farb, würden der faulen Schwengel und Huren gar zu viel.«
+
+»Solcher Huren und Buben Ampt ist weiter, wo man im Läger eine Zeit
+lang verharret, dass sie mit Gunst zu melden die Mumplätz (Kloaken)
+sampt anderm wo es not ist, säubern und fegen; solches wird niemandts
+unter ihnen gefreyet, weder gross noch klein.... Dazu wo es von nöten
+Graben, Teich oder Gruben auszufüllen, darüber man etwan auch stürmet
+oder Weg auszubessern, oder wo Geschütz versinke und stecken bliebe; da
+werden die Huren und Buben neben verordneten Personen Reiss, Wellen,
+Büschel Holz zu machen, binden und tragen genötigt und ziehen helfen,
+wo es not thut, und was dem Haufen von nüzten durch sie geschaft mag
+werden, das keinswegs zu wiedern, bey ernstlicher straff so ihnen
+aufferlegt wirdt«.
+
+[49] +Hoyer+, Gesch. der Kriegskunst, I, S. 318. +Scheible+ a. a. O.,
+S. 463 f.
+
+[50] Vgl. +Mone+ in der Zeitschr. f. Gesch. des Oberrh., I, S. 151. IV,
+S. 246 f., +Kriegk+, Deutsches Bürgertum, S. 140 ff. und im Allgemeinen
+meine Entstehung der Volkswirtschaft, S. 420 ff.
+
+[51] +Uhland+, Alte hoch- und niederdeutsche Volkslieder Nr. 194.
+
+[52] A. a. O. Nr. 193.
+
+[53] +Uhland+ a. a. O. Nr. 256.
+
+[54] Limburger Chronik, S. 35 (Rossel).
+
+[55] +Uhland+, Nr. 189, vgl. 188 »Landsknechtorden«:
+
+    »Erstlich muss er ein weib und flaschen haben,
+    darbei ein hund und einen knaben:
+    das weib und wein erfrewt den man,
+    der knab und hund sol spüren,
+    was in dem haus tut stan.«
+
+[56] +Uhland+ Nr. 199.
+
+[57] Ueber die +Prostitution+ im Mittelalter liegt eine Reihe sehr
+eingehender Arbeiten vor, auf die ich hier wegen der tatsächlichen
+Einzelheiten und der bezüglichen Quellenliteratur verweisen muss. Das
+wichtigste bieten: +Siebenkees+, Material. IV. +Scheible+ a. a. O., S.
+454-527 u. 952-981. +Schlager+, Wiener Skizzen, N. F., III., 345-470.
++Kriegk+, Deutsches Bürgertum, N. F., 259 ff., 339 ff. +Maurer+, Gesch.
+der Städteverfassung in Deutschland, III., S. 103 ff. +Hüllmann+,
+Städtewesen im Ma., IV., S. 270 ff.
+
+[58] Vgl. +Maurer+ a. a. O., S. 103 f. und +Weinhold+ a. a. O., II., S.
+21, Anm. 1.
+
+[59] Vgl. meine Bevölkerung von Frankf. I, S. 390. Noch im Jahre
+1451, zu einer Zeit, in welcher der Rat mit äußerster Strenge gegen
+Personen vorging, die im Konkubinat lebten und die Prostituierten
+außerhalb des Frauenhauses verfolgte, finden wir folgenden Eintrag
+im Bürgermeisterbuch Bl. 37^a: _Welche hore mit dem stucker gedingt
+hat, gibt sie yme nichts, so mag er sie phenden, und obe sost ein gude
+dirne mit eym guden gesellen zuhielde, die sal er nit dringen mit yme
+zu dingen, sie ginge dan braden reyen, er mag iz dem obersten richter
+sagen._
+
+[60] Daher die Namen: arme, irre, leichte, schwache, wandelbare, wilde,
+freie Weiber, Fräulein, liebe Tochter, gute Tochter u. s. w. Vgl.
++Weinhold+ a. a. O.
+
+[61] Die unerschöpfliche Skandalchronik der Klöster hier aufzurollen
+ist wohl nicht nötig. Der Kürze halber sei auf die Zimmersche
+Chronik verwiesen, aus der allein sich ein erschütterndes Bild
+der geschlechtlichen Verwilderung des ausgehenden Mittelalters
+zusammenstellen liesse.
+
+[62] Vgl. +C. Schmidt+ in der Alsatia 1858-1861, S. 202 ff., und über
+das Folgende +Kriegk+ a. a. O., S. 331 ff. +Maurer+ a. a. O., S. 114.
+
+[63] Vgl. +Biedenfeld+, Ursprung sämtlicher Mönchs- und
+Klosterfrauen-Orden, I., S. 140 ff.
+
+[64] Wie noch heute die Nonnenklöster in Italien und Spanien
+die Frauenerwerbsfrage viel weniger hervortreten lassen als in
+England und Deutschland, zeigt treffend v. +Holtzendorff+, Die
+Verbesserungen in der gesellsch. und wirtsch. Stellung der Frauen
+(Virchow-Holtzendorffsche Sammlung II., Heft 40), S. 25.
+
+[65] Sprüche Salomons Kap. 31.
+
+[66] Vgl. die schönen Ausführungen von +Schäffle+, Bau und Leben des
+sozialen Körpers, I, S. 192 und Gesellsch. System, § 46.
+
+[67] Vgl. meine »Wohnungs-Enquête in der Stadt Basel«, S. 179 f.
+
+[68] Die Zahl ergibt sich, wenn man die Berufsgruppen A-E zusammenfasst
+und dazu die Dienstboten addiert. Es waren dann 1907 vorhanden.
+
+                        erwerbstätige  Zunahme seit 1895
+
+    männliche Personen    18599236           19·8
+    weibliche Personen     9492881           44·1
+    zusammen              28092117           27·0
+
+Fasst man dagegen die Hauptergebnisse nach der Statistik des Deutschen
+Reichs Bd. 202, I, S. 4 f. für die gesamte Berufsbevölkerung
+einschliesslich der Berufslosen für 1907 zusammen, und stellt ihnen die
+entsprechenden Zahlen der beiden früheren Berufszählungen gegenüber, so
+erhält man folgendes Bild.
+
++Die Bevölkerung nach dem Hauptberuf der Erwerbstätigen.+
+
+ ----------+---------------------+---------+-----------+----------------
+ Berufs-   |   Erwerbstätige     |Dienst-  | Angehörige| Erwerbstätige,
+ und       |      Personen       |boten    | ohne      | Dienstboten
+           +----------+--------- +für      | Haupt-    | und
+ Betriebs- | überhaupt| darunter |häusliche| beruf     | Angehörige
+ zählung   |          | weibliche|Dienste  |           | zus.
+ ==========+==========+==========+=========+===========+================
+ 1882      |18986494  | 4961228  |1324924  |24910695   |45222113
+ 1895      |22913683  | 6379942  |1339316  |27517285   |51770284
+ 1907      |30232345  |10035705  |1264755  |30223429   |61720529
+ Zunahme   |    %     |    %     |    %    |    %      |    %
+ 1882-1895 |  20.7    |  28.6    |   1.1   |  10.5     |  14.5
+ 1895-1907 |  31.9    |  57.3    |  -5.6   |   9.8     |  19.2
+ 1882-1907 |  59.2    |102.03    |  -4.8   |  21.3     |  36.5
+
+Natürlich verteilt sich die enorme Zunahme der Erwerbstätigen
+weiblichen Geschlechts nicht gleichmässig auf alle Berufsgruppen
+und Berufsstellungen. Es ist darum nötig, hier auf die Gliederung
+der Berufsstatistik etwas näher einzugehen, wobei der Vergleich der
+Einfachheit wegen auf die beiden letzten Berufszählungen beschränkt
+bleiben muss.
+
+Die Zunahme, bez. Abnahme (-) der Erwerbstätigen zwischen 1895 und 1907
+betrug:
+
+ ======================================+=========+=========+============
+ Berufsgruppen und Berufsstellungen    |männliche|weibliche|  Erwerbs-
+                                       +-------------------+   tätige
+                                       |   Erwerbstätige   | überhaupt
+ ======================================+===================+============
+ A. +Land- u. Forstwirtschaft,         |                   |
+    Gärtnerei, Tierzucht, Fischerei+   |   16.4  |  67.1   |    19.2
+   a) Selbständige und Betriebsleiter  |   -2.2  |  -5.4   |    -2.6
+   b) Verwaltungs- u. Aufsichtspersonal|    5.7  | -10.2   |     2.7
+   c) Gehilfen, Lehrlinge (Arbeiter)   |   -6.5  |  78.1   |    11.7
+                                       |         |         |
+ B. +Industrie einschliessl. des       |         |         |
+    Bergbaus+                          |   35.4  |  38.3   |    35.9
+   a) Selbständige und Betriebsleiter  |    0.1  |  -11.9  |    -2.5
+   afr) Hausindustrielle               |  -39.9  | -12.9   |   -27.7
+   b) Verwaltungs- u. Aufsichtspersonal|  144.5  |  585.7  |   160.1
+   c) Gehilfen, Lehrlinge (Arbeiter)   |   42.6  |  61.4   |    45.9
+                                       |         |         |
+ C. +Handel, Verkehr, Gastwirtschaft+  |   44.8  |  60.7   |    48.7
+   a) Selbständige und Betriebsleiter  |   19.4  |  21.2   |    20.0
+   b) Verwaltungs- u. Aufsichtspersonal|   70.5  | 564.8   |    93.2
+   c) Gehilfen, Lehrlinge              |   56.0  |  65.8   |    58.9
+                                       |         |         |
+ D. +Häusliche Dienste und             |         |         |
+    wechselnde Lohnarbeit+             |  -24.1  |  37.2   |     9.1
+                                       |         |         |
+ E. +Oeffentlicher Dienst und          |         |         |
+    freie Berufsarten+                 |   16.1  |  63.2   |    21.9
+                         --------------+---------+---------+------------
+                   Zusammen A-E        |   19.8  |   56.6  |    29.2
+
+Mehr als die Hälfte der erwerbstätigen Frauen gehört der Berufsgruppe
+A an (1907: 4598986), in der die in der Landwirtschaft helfenden
+Familienangehörigen des Betriebsleiters sehr stark ins Gewicht fallen;
+auf die Berufsgruppe B kommen 2103924, C: 931373, D: 320904 und E:
+288311.
+
+[69] Das Einküchenhaus scheint schon bei dem ersten Versuche Fiasko
+erlitten zu haben. Dennoch hat ihm die »Neudeutsche Bauzeitung« vor
+kurzem eine Spezialnummer gewidmet, in welcher namhafte Architekten und
+Kunstschriftsteller sich über die »wirtschaftlichen und künstlerischen
+Möglichkeiten des Einküchenhauses« aussprechen. Von dem, was +van der
+Velde+ darüber schreibt, sei folgendes wiedergegeben: »Man muss sich
+für die soziale und kulturelle Seite des Problems begeistern, und für
+diejenigen, die sich aufregen und leiden, wenn sie sehen, +wieviele
+Frauen unter der Last tausend kleiner Haushaltungssorgen ihre besten
+Eigenschaften einbüssen+, ist die Idee direkt erlösend. Ausserdem trägt
+sie den Keim zu +einer noch vollständigeren Gemeinschaft zwischen in
+demselben Hause lebenden Menschen+ in sich. Denn wir werden uns nicht
+lange mit dem Haus begnügen, in dem +nur+ die Küche gemeinschaftlich
+ist, wir werden auch bald den gemeinsamen Raum verlangen, wo +für
+alle die Stiefel geputzt und die Kleider gebürstet werden+, wo das
+Geschirr abgewaschen und alle grobe Hausarbeit von Angestellten einer
+Zentralorganisation verrichtet wird, die wir weder sehen noch hören
+werden und die wir nur für ihre Dienste entlohnen müssen. Alles
+drängt uns zu dieser Entwicklung, der Mangel an Dienstboten und
+der Wunsch, sie so wenig wie möglich um uns zu sehen.« Die Frauen
+haben, wie man sieht, alle Ursache zu dem Wunsche: Gott schütze uns
+vor unsern Freunden! Grenzt es nicht fast an Wahnwitz, wenn die
+Zeitungen im Anschluss an obige Ausführungen folgende Expektoration
+einer Amerikanerin beifällig wiederholen: »Fünfzig Feuer da, wo ein
+einziges genügen würde. Sie können ja an ihrem Tisch im Familienkreis
+mit ihren Kindern essen, wenn sie wollen, aber warum sollen fünfzig
+Frauen ihre Morgenstunde verlieren, um ein paar Tassen Kaffee zu
+machen und das so einfache Frühstück zu bereiten? Warum fünfzig Feuer,
+wenn zwei Personen und ein einziges Feuer genügen würden, um all das
+Fleisch und Gemüse zu kochen? Warum ist der Wert der Frauenarbeit
+niemals anerkannt worden? Warum sind die Frauen in jeder Familie,
+wo oft drei bis vier Dienstboten gehalten werden, gezwungen, ihre
+ganze Zeit (!) den Küchenangelegenheiten zu widmen? Weil selbst
+diejenigen, die die Befreiung der Menschheit wollen, nicht die Frau
+in ihrem Befreiungstraum verstanden haben -- und weil sie es von
+ihrer hohen männlichen Würde herab für unwürdig halten, an diese
+»Küchenangelegenheiten« zu denken, die sie von sich abgewältzt haben
+auf die Schultern der grossen Dulderin Frau!«
+
+[70] Die im Oktober 1909 in Berlin abgehaltene Generalversammlung des
+Verbands fortschrittlicher Frauenvereine meinte den Schrecken über die
+Ergebnisse der Berufszählung von 1907 dadurch überwinden zu können,
+dass sie einem »Verband für handwerksmässige und fachgewerbliche
+Ausbildung der Frau« das Wort redete. Sie ging dabei von der durch
+nichts beweisbaren Annahme aus, dass der Zuwachs erwerbstätiger Frauen
+seit 1895 durchweg aus »ungelernter Arbeit« bestehe. Die Frauen
+leisteten in der neuen deutschen Volkswirtschaft in überwiegendem
+Masse nichts anderes als »Kuli-Arbeit«. Dem soll nun abgeholfen werden
+durch fachgewerbliche Ausbildung. (Vgl. »Soziale Praxis« XIX, S.
+55 f.) Ganz abgesehen von der Frage, ob hier von einer richtigen
+Annahme ausgegangen ist, wird man ernste Zweifel hegen dürfen, ob damit
+an der Tatsache etwas geändert werden kann, dass auch bei gleicher
+Leistung die Frauenlöhne niedriger sind als die Männerlöhne und dass
+die Erwerbsarbeit der Frauen -- einerlei, ob sie »gelernte« oder
+»ungelernte« Arbeit ist -- unter der heutigen Wirtschaftsorganisation
+in der Hauptsache nur abhängige Arbeit sein kann. -- Uebrigens scheinen
+die Fälle, in denen eine ordnungsmässige Ausbildung weiblicher
+Handwerkslehrlinge Platz greift, schon jetzt ziemlich häufig zu sein,
+wie die Ergebnisse einer von dem erwähnten Verbande veranstalteten
+Erhebung vermuten lassen. Vgl. darüber Volkswirtsch. Blätter VIII
+(1909) S. 397.
+
+
+
+
