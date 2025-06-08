@@ -5,6 +5,10 @@
 #include <dirent.h> // pour compter les fichiers dans un dossier
 #include <math.h>   // sqrt, pow
 #include <ctype.h>  // pour toupper (hash)
+#include <sys/types.h>  // pour les types de données
+#include <sys/stat.h>  // pour les stat
+#include <unistd.h>  // sous MSYS2, cette partie est émulée
+#include <limits.h>  // pour PATH_MAX
 
 #define TYPE_FICHIER_REG 8                           // Type de fichier régulier
 #define DOSSIER_TEXTES "Textes/"                     // Dossier contenant les textes à traiter

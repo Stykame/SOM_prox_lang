@@ -19,14 +19,22 @@ int main()
     i = 0;                                                   // Réinitialisation du compteur
     d = opendir(DOSSIER_TEXTES);                             // Ouverture du dossier
 
-    // On récupère les noms des fichiers
-    if (d) // Si le dossier existe
+// On récupère les noms des fichiers
+if (d) // Si le dossier existe
+{
+    while ((dir = readdir(d)) != NULL) // Tant qu'il y a des fichiers dans le dossier
     {
-        while ((dir = readdir(d)) != NULL)                        // Tant qu'il y a des fichiers dans le dossier
-            if (dir->d_type == TYPE_FICHIER_REG)                  // Si le fichier est un fichier régulier
-                strcpy((char *)&noms_fichiers[i++], dir->d_name); // On copie le nom du fichier dans le tableau
-        closedir(d);                                              // Fermeture du dossier
+        char chemin_complet[PATH_MAX];
+        snprintf(chemin_complet, sizeof(chemin_complet), "%s/%s", DOSSIER_TEXTES, dir->d_name);
+
+        struct stat st;
+        if (stat(chemin_complet, &st) == 0 && S_ISREG(st.st_mode)) // Si c'est un fichier régulier
+        {
+            strcpy((char *)&noms_fichiers[i++], dir->d_name); // On copie le nom du fichier dans le tableau
+        }
     }
+    closedir(d); // Fermeture du dossier
+}
 
     TAILLE_VOISINAGE_INITIALE = sqrt(pow(LONGUEUR_CARTE, 2) + pow(LARGEUR_CARTE, 2)); // Calcul de la taille du voisinage initiale
     qsort(noms_fichiers, nb_fichiers, TAILLE_MAX_NOM_FICHIER, comparer_noms);         // On trie les noms de fichiers par ordre alphabétique
@@ -77,23 +85,33 @@ void afficher_erreur(char *message)
 // Compte le nombre de fichiers dans un dossier
 int compter_fichiers(const char *dossier)
 {
-    int nb_fichiers = 0;  // Compteur
-    DIR *d;               // Pointeur vers le dossier
-    struct dirent *dir;   // Structure contenant les informations sur le fichier
-    d = opendir(dossier); // Ouverture du dossier
-    char message[100];    // Message d'erreur
-    if (d)                // Si le dossier existe
+    int nb_fichiers = 0;             // Compteur
+    DIR *d;                          // Pointeur vers le dossier
+    struct dirent *dir;             // Structure contenant les infos du fichier
+    d = opendir(dossier);           // Ouverture du dossier
+    char message[100];              // Message d'erreur
+
+    if (d) // Si le dossier existe
     {
-        while ((dir = readdir(d)) != NULL)       // Tant qu'il y a des fichiers dans le dossier
-            if (dir->d_type == TYPE_FICHIER_REG) // Si le fichier est un fichier régulier
-                nb_fichiers++;                   // On incrémente le compteur
-        closedir(d);                             // Fermeture du dossier
+        while ((dir = readdir(d)) != NULL) // Tant qu'il y a des fichiers dans le dossier
+        {
+            char chemin_complet[PATH_MAX];
+            snprintf(chemin_complet, sizeof(chemin_complet), "%s/%s", dossier, dir->d_name);
+
+            struct stat st;
+            if (stat(chemin_complet, &st) == 0 && S_ISREG(st.st_mode)) // Si c'est un fichier régulier
+            {
+                nb_fichiers++; // On incrémente le compteur
+            }
+        }
+        closedir(d); // Fermeture du dossier
     }
     else // Si le dossier n'existe pas
     {
         snprintf(message, sizeof(message), "Erreur d'ouverture du dossier '%s'", dossier);
         afficher_erreur(message); // On affiche un message d'erreur
     }
+
     return nb_fichiers; // On retourne le nombre de fichiers
 }
 
